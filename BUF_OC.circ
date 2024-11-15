@@ -16,7 +16,7 @@
       <a name="valign" val="base"/>
     </tool>
   </lib>
-  <main name="INV_OC"/>
+  <main name="BUF_OC"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
     <a name="simlimit" val="1000"/>
@@ -51,8 +51,8 @@
     <tool lib="1" name="AND Gate"/>
     <tool lib="1" name="OR Gate"/>
   </toolbar>
-  <circuit name="INV_OC">
-    <a name="circuit" val="INV_OC"/>
+  <circuit name="BUF_OC">
+    <a name="circuit" val="BUF_OC"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
@@ -66,6 +66,9 @@
     </appear>
     <wire from="(120,80)" to="(130,80)"/>
     <wire from="(90,80)" to="(100,80)"/>
+    <comp lib="1" loc="(120,80)" name="Buffer">
+      <a name="out" val="0Z"/>
+    </comp>
     <comp lib="0" loc="(90,80)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
@@ -73,9 +76,6 @@
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="1" loc="(120,80)" name="Buffer">
-      <a name="out" val="0Z"/>
     </comp>
   </circuit>
 </project>
