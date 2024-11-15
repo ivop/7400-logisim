@@ -24,3 +24,15 @@ Have fun!
 | 74LS74 | dual D positive edge triggered flip-flop | ![](png/74LS74.png) | [74LS74.circ](circ/74LS74.circ) | |
 | 74LS75 | 4-bit bistable latch, complementary outputs | ![](png/74LS75.png) | [74LS75.circ](circ/74LS75.circ) | |
 | 74LS77 | 4-bit bistable latch | ![](png/74LS77.png) | [74LS77.circ](circ/74LS77.circ) | |
+| 74LS82 | | ![](png/74LS82.png) | [74LS82.circ](circ/74LS82.circ) | |
+| 74LS83 | | ![](png/74LS83.png) | [74LS83.circ](circ/74LS83.circ) | |
+| 74LS92 | | ![](png/74LS92.png) | [74LS92.circ](circ/74LS92.circ) | |
+| 74LS93 | | ![](png/74LS93.png) | [74LS93.circ](circ/74LS93.circ) | |
+| 74LS138 | | ![](png/74LS138.png) | [74LS138.circ](circ/74LS138.circ) | |
+| 74LS147 | | ![](png/74LS147.png) | [74LS147.circ](circ/74LS147.circ) | |
+| 74LS155 | | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
+| 74LS157 | | ![](png/74LS157.png) | [74LS157.circ](circ/74LS157.circ) | |
+| 74LS163 | | ![](png/74LS163.png) | [74LS163.circ](circ/74LS163.circ) | |
+| 74LS164 | | ![](png/74LS164.png) | [74LS164.circ](circ/74LS164.circ) | |
+| 74LS165 | | ![](png/74LS165.png) | [74LS165.circ](circ/74LS165.circ) | |
+| 74LS175 | | ![](png/74LS175.png) | [74LS175.circ](circ/74LS175.circ) | |
