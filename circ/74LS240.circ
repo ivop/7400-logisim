@@ -69,18 +69,18 @@
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="84">1A2</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="94">1A3</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="104">1A4</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="74">1Y1</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="84">1Y2</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="94">1Y3</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="104">1Y4</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="74">/1Y1</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="84">/1Y2</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="94">/1Y3</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="104">/1Y4</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="144">2A2</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="154">2A3</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="154">2Y3</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="164">2Y4</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="154">/2Y3</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="164">/2Y4</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="134">2A1</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="144">2Y2</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="144">/2Y2</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="124">2/G</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="93" y="134">2Y1</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="90" y="134">/2Y1</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="164">2A4</text>
       <text font-family="SansSerif" font-size="14" font-weight="bold" text-anchor="start" x="49" y="46">74LS240</text>
       <circ-port height="8" pin="90,100" width="8" x="46" y="56"/>
@@ -125,131 +125,131 @@
     <wire from="(140,400)" to="(140,440)"/>
     <wire from="(90,300)" to="(110,300)"/>
     <wire from="(90,100)" to="(110,100)"/>
-    <wire from="(140,470)" to="(160,470)"/>
+    <wire from="(140,440)" to="(160,440)"/>
     <wire from="(140,270)" to="(160,270)"/>
+    <wire from="(140,470)" to="(160,470)"/>
+    <wire from="(180,180)" to="(200,180)"/>
+    <wire from="(180,140)" to="(200,140)"/>
     <wire from="(140,160)" to="(160,160)"/>
     <wire from="(140,200)" to="(160,200)"/>
     <wire from="(140,240)" to="(160,240)"/>
     <wire from="(140,400)" to="(160,400)"/>
-    <wire from="(140,440)" to="(160,440)"/>
     <wire from="(140,360)" to="(160,360)"/>
     <wire from="(180,220)" to="(200,220)"/>
     <wire from="(180,420)" to="(200,420)"/>
+    <wire from="(180,460)" to="(200,460)"/>
     <wire from="(180,380)" to="(200,380)"/>
     <wire from="(180,340)" to="(200,340)"/>
     <wire from="(180,260)" to="(200,260)"/>
-    <wire from="(180,460)" to="(200,460)"/>
-    <wire from="(180,180)" to="(200,180)"/>
-    <wire from="(180,140)" to="(200,140)"/>
     <wire from="(130,300)" to="(140,300)"/>
     <wire from="(130,100)" to="(140,100)"/>
     <wire from="(140,300)" to="(140,360)"/>
     <wire from="(140,100)" to="(140,160)"/>
-    <comp lib="0" loc="(90,460)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="2A4"/>
+    <comp lib="6" loc="(134,57)" name="Text">
+      <a name="text" val="74LS240"/>
+      <a name="font" val="SansSerif bold 24"/>
     </comp>
-    <comp lib="0" loc="(90,340)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="2A1"/>
-    </comp>
-    <comp lib="0" loc="(200,220)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="1Y3"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="1" loc="(180,420)" name="Controlled Inverter"/>
     <comp lib="0" loc="(90,380)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="2A2"/>
     </comp>
-    <comp lib="0" loc="(200,340)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="2Y1"/>
-      <a name="labelloc" val="east"/>
+    <comp lib="1" loc="(130,100)" name="NOT Gate">
+      <a name="size" val="20"/>
     </comp>
-    <comp lib="0" loc="(90,100)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="1/G"/>
-    </comp>
-    <comp lib="0" loc="(200,460)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="2Y4"/>
-      <a name="labelloc" val="east"/>
-    </comp>
+    <comp lib="1" loc="(180,460)" name="Controlled Inverter"/>
     <comp lib="0" loc="(90,220)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="1A3"/>
     </comp>
-    <comp lib="0" loc="(90,140)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="1A1"/>
-    </comp>
-    <comp lib="1" loc="(180,380)" name="Controlled Inverter"/>
-    <comp lib="0" loc="(90,180)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="1A2"/>
-    </comp>
-    <comp lib="0" loc="(90,260)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="1A4"/>
-    </comp>
-    <comp lib="1" loc="(180,180)" name="Controlled Inverter"/>
-    <comp lib="1" loc="(180,220)" name="Controlled Inverter"/>
-    <comp lib="0" loc="(90,420)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="2A3"/>
-    </comp>
-    <comp lib="0" loc="(200,180)" name="Pin">
+    <comp lib="0" loc="(200,220)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
-      <a name="label" val="1Y2"/>
+      <a name="label" val="/1Y3"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="1" loc="(130,100)" name="NOT Gate">
-      <a name="size" val="20"/>
-    </comp>
-    <comp lib="1" loc="(130,300)" name="NOT Gate">
-      <a name="size" val="20"/>
+    <comp lib="0" loc="(200,460)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="/2Y4"/>
+      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(90,300)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="2/G"/>
     </comp>
+    <comp lib="0" loc="(90,100)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1/G"/>
+    </comp>
+    <comp lib="1" loc="(180,180)" name="Controlled Inverter"/>
+    <comp lib="0" loc="(200,180)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="/1Y2"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(200,340)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="/2Y1"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(90,460)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A4"/>
+    </comp>
     <comp lib="1" loc="(180,140)" name="Controlled Inverter"/>
     <comp lib="0" loc="(200,420)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
-      <a name="label" val="2Y3"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(200,260)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="1Y4"/>
+      <a name="label" val="/2Y3"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(200,140)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
-      <a name="label" val="1Y1"/>
+      <a name="label" val="/1Y1"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="1" loc="(180,340)" name="Controlled Inverter"/>
+    <comp lib="0" loc="(90,260)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A4"/>
+    </comp>
+    <comp lib="1" loc="(180,220)" name="Controlled Inverter"/>
+    <comp lib="0" loc="(90,140)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A1"/>
+    </comp>
+    <comp lib="1" loc="(180,380)" name="Controlled Inverter"/>
+    <comp lib="1" loc="(130,300)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
     <comp lib="0" loc="(200,380)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
-      <a name="label" val="2Y2"/>
+      <a name="label" val="/2Y2"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="1" loc="(180,460)" name="Controlled Inverter"/>
-    <comp lib="1" loc="(180,260)" name="Controlled Inverter"/>
-    <comp lib="6" loc="(134,57)" name="Text">
-      <a name="text" val="74LS240"/>
-      <a name="font" val="SansSerif bold 24"/>
+    <comp lib="1" loc="(180,340)" name="Controlled Inverter"/>
+    <comp lib="0" loc="(90,420)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A3"/>
     </comp>
+    <comp lib="0" loc="(90,340)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A1"/>
+    </comp>
+    <comp lib="0" loc="(90,180)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A2"/>
+    </comp>
+    <comp lib="1" loc="(180,260)" name="Controlled Inverter"/>
+    <comp lib="0" loc="(200,260)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="/1Y4"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(180,420)" name="Controlled Inverter"/>
   </circuit>
 </project>
