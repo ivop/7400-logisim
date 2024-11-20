@@ -39,6 +39,7 @@ Have fun!
 | 74LS165 | 8-bit parallel-in serial-out (PISO) shift register, parallel load, complementary outputs | ![](png/74LS165.png) | [74LS165.circ](circ/74LS165.circ) | |
 | 74LS166 | parallel-load 8-bit shift register | ![](png/74LS166.png) | [74LS166.circ](circ/74LS166.circ) | |
 | 74LS167 | synchronous decade rate multiplier  | ![](png/74LS167.png) | [74LS167.circ](circ/74LS167.circ) | |
+| 74LS168 | synchronous presettable 4-bit up/down decade counter | ![](png/74LS168.png) | [74LS168.circ](circ/74LS168.circ) | datasheet bug fixed |
 | 74LS169 | synchronous presettable 4-bit up/down binary counter | ![](png/74LS169.png) | [74LS169.circ](circ/74LS169.circ) | |
 | 74LS175 | quad D edge-triggered flip-flop, complementary outputs and asynchronous clear | ![](png/74LS175.png) | [74LS175.circ](circ/74LS175.circ) | |
 | 74LS240 | octal buffer, inverting outputs, three-state | ![](png/74LS240.png) | [74LS240.circ](circ/74LS240.circ) | |
