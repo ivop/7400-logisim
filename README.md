@@ -23,7 +23,7 @@ Have fun!
 | 74LS49 | BCD to 7-segment decoder/driver, open-collector | ![](png/74LS49.png) | [74LS49.circ](circ/74LS49.circ) | |
 | 74LS51 | 3-3-input AND-OR-Invert gate and 2-2-input AND-OR-Invert gate | ![](png/74LS51.png) | [74LS51.circ](circ/74LS51.circ) | |
 | 74LS67 | AND gated J-K master-slave flip-flop, asynchronous preset and clear | ![](png/74LS67.png) | [74LS67.circ](circ/74LS67.circ) | |
-| 74LS68 | dual J-K flip-flop, asynchronous clear | ![](png/74LS68.png) | [74LS68.circ](circ/74LS68.circ) | |
+| 74L68 | dual J-K flip-flop, asynchronous clear | ![](png/74L68.png) | [74LS68.circ](circ/74L68.circ) | |
 | 74LS74 | dual D positive edge triggered flip-flop | ![](png/74LS74.png) | [74LS74.circ](circ/74LS74.circ) | |
 | 74LS75 | 4-bit bistable latch, complementary outputs | ![](png/74LS75.png) | [74LS75.circ](circ/74LS75.circ) | |
 | 74LS77 | 4-bit bistable latch | ![](png/74LS77.png) | [74LS77.circ](circ/74LS77.circ) | |
