@@ -29,8 +29,11 @@ Have fun!
 | 74LS74 | dual D positive edge triggered flip-flop | ![](png/74LS74.png) | [74LS74.circ](circ/74LS74.circ) | |
 | 74LS75 | 4-bit bistable latch, complementary outputs | ![](png/74LS75.png) | [74LS75.circ](circ/74LS75.circ) | |
 | 74LS77 | 4-bit bistable latch | ![](png/74LS77.png) | [74LS77.circ](circ/74LS77.circ) | |
+| 74LS78 | dual negative edge triggered J-K flip-flop, preset, common clock and common clear | ![](png/74LS78.png) | [74LS78.circ](circ/74LS78.circ) | |
 | 74LS82 | 2-bit binary full adder | ![](png/74LS82.png) | [74LS82.circ](circ/74LS82.circ) | |
 | 74LS83 | 4-bit binary full adder | ![](png/74LS83.png) | [74LS83.circ](circ/74LS83.circ) | |
+| 74LS85 | 4-bit magnitude comparator | ![](png/74LS85.png) | [74LS85.circ](circ/74LS85.circ) | |
+| 74LS87 | 4-bit true/complement/zero/one element | ![](png/74LS87.png) | [74LS87.circ](circ/74LS87.circ) | |
 | 74LS90 | decade counter | ![](png/74LS90.png) | [74LS90.circ](circ/74LS90.circ) | |
 | 74LS92 | divide-by-12 counter | ![](png/74LS92.png) | [74LS92.circ](circ/74LS92.circ) | |
 | 74LS93 | 4-bit binary counter | ![](png/74LS93.png) | [74LS93.circ](circ/74LS93.circ) | |
