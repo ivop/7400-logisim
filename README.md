@@ -35,8 +35,10 @@ Have fun!
 | 74LS85 | 4-bit magnitude comparator | ![](png/74LS85.png) | [74LS85.circ](circ/74LS85.circ) | |
 | 74LS87 | 4-bit true/complement/zero/one element | ![](png/74LS87.png) | [74LS87.circ](circ/74LS87.circ) | |
 | 74LS90 | decade counter | ![](png/74LS90.png) | [74LS90.circ](circ/74LS90.circ) | |
+| 74LS91 | 8-bit shift register, serial in, serial out, gated input | ![](png/74LS91.png) | [74LS91.circ](circ/74LS91.circ) | |
 | 74LS92 | divide-by-12 counter | ![](png/74LS92.png) | [74LS92.circ](circ/74LS92.circ) | |
 | 74LS93 | 4-bit binary counter | ![](png/74LS93.png) | [74LS93.circ](circ/74LS93.circ) | |
+| 74LS94 | 4-bit shift register, dual asynchronous presets | ![](png/74LS94.png) | [74LS94.circ](circ/74LS94.circ) | |
 | 74LS138 | 3-to-8 line decoder/demultiplexer, inverting outputs| ![](png/74LS138.png) | [74LS138.circ](circ/74LS138.circ) | |
 | 74LS147 | 10-line to 4-line priority encoder | ![](png/74LS147.png) | [74LS147.circ](circ/74LS147.circ) | |
 | 74LS155 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
