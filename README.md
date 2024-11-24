@@ -42,6 +42,10 @@ Have fun!
 | 74LS95 | 4-bit shift register, parallel in, parallel out, serial input | ![](png/74LS95.png) | [74LS95.circ](circ/74LS95.circ) | |
 | 74LS96 | 5-bit parallel-in/parallel-out shift register, asynchronous preset | ![](png/74LS96.png) | [74LS96.circ](circ/74LS96.circ) | |
 | 74LS97 | synchronous 6-bit binary rate multiplier | ![](png/74LS97.png) | [74LS97.circ](circ/74LS97.circ) | |
+| 74LS98 | 4-bit data selector/storage register | ![](png/74LS98.png) | [74LS98.circ](circ/74LS98.circ) | |
+| 74LS99 | 4-bit bidirectional universal shift register | ![](png/74LS99.png) | [74LS99.circ](circ/74LS99.circ) | |
+| 74LS100 | dual 4-bit bistable latch | ![](png/74LS100.png) | [74LS100.circ](circ/74LS100.circ) | |
+| 74L116 | dual 4-bit latch, clear | ![](png/74L116.png) | [74L116.circ](circ/74L116.circ) | |
 | 74LS138 | 3-to-8 line decoder/demultiplexer, inverting outputs| ![](png/74LS138.png) | [74LS138.circ](circ/74LS138.circ) | |
 | 74LS147 | 10-line to 4-line priority encoder | ![](png/74LS147.png) | [74LS147.circ](circ/74LS147.circ) | |
 | 74LS155 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
@@ -57,5 +61,6 @@ Have fun!
 | 74LS240 | octal buffer, inverting outputs, three-state | ![](png/74LS240.png) | [74LS240.circ](circ/74LS240.circ) | |
 | 74LS241 | octal buffer, non-inverting outputs, three-state | ![](png/74LS241.png) | [74LS241.circ](circ/74LS241.circ) | |
 | 74LS244 | octal buffer, non-inverting outputs, three-state | ![](png/74LS244.png) | [74LS244.circ](circ/74LS244.circ) | |
+| 74LS245 | octal bus transceiver, non-inverting outputs | ![](png/74LS245.png) | [74LS245.circ](circ/74LS245.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
