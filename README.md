@@ -46,7 +46,9 @@ Have fun!
 | 74LS99 | 4-bit bidirectional universal shift register | ![](png/74LS99.png) | [74LS99.circ](circ/74LS99.circ) | |
 | 74LS100 | dual 4-bit bistable latch | ![](png/74LS100.png) | [74LS100.circ](circ/74LS100.circ) | |
 | 74L116 | dual 4-bit latch, clear | ![](png/74L116.png) | [74L116.circ](circ/74L116.circ) | |
+| 74LS137 | 3-to-8 line decoder/demultiplexer, address latch, inverting outputs | ![](png/74LS137.png) | [74LS137.circ](circ/74LS137.circ) | |
 | 74LS138 | 3-to-8 line decoder/demultiplexer, inverting outputs| ![](png/74LS138.png) | [74LS138.circ](circ/74LS138.circ) | |
+| 74LS139 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS139.png) | [74LS139.circ](circ/74LS139.circ) | |
 | 74LS147 | 10-line to 4-line priority encoder | ![](png/74LS147.png) | [74LS147.circ](circ/74LS147.circ) | |
 | 74LS155 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
 | 74LS157 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS157.png) | [74LS157.circ](circ/74LS157.circ) | |
@@ -58,6 +60,9 @@ Have fun!
 | 74LS168 | synchronous presettable 4-bit up/down decade counter | ![](png/74LS168.png) | [74LS168.circ](circ/74LS168.circ) | datasheet bug fixed |
 | 74LS169 | synchronous presettable 4-bit up/down binary counter | ![](png/74LS169.png) | [74LS169.circ](circ/74LS169.circ) | |
 | 74LS175 | quad D edge-triggered flip-flop, complementary outputs and asynchronous clear | ![](png/74LS175.png) | [74LS175.circ](circ/74LS175.circ) | |
+| 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
+| 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
+| 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
 | 74LS240 | octal buffer, inverting outputs, three-state | ![](png/74LS240.png) | [74LS240.circ](circ/74LS240.circ) | |
 | 74LS241 | octal buffer, non-inverting outputs, three-state | ![](png/74LS241.png) | [74LS241.circ](circ/74LS241.circ) | |
 | 74LS244 | octal buffer, non-inverting outputs, three-state | ![](png/74LS244.png) | [74LS244.circ](circ/74LS244.circ) | |
