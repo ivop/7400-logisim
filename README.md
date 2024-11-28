@@ -50,6 +50,11 @@ Have fun!
 | 74LS138 | 3-to-8 line decoder/demultiplexer, inverting outputs| ![](png/74LS138.png) | [74LS138.circ](circ/74LS138.circ) | |
 | 74LS139 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS139.png) | [74LS139.circ](circ/74LS139.circ) | |
 | 74LS141 | BCD to decimal decoder/driver for cold-cathode indicator / Nixie tube | ![](png/74LS141.png)| [74LS141.circ](circ/74LS141.circ) | |
+| 74LS142 | decade counter/latch/decoder/driver for Nixie tubes | ![](png/74LS142.png) | [74LS142.circ](circ/74LS142.circ) | |
+| 74LS143 | decade counter/latch/decoder/7-segment driver | ![](png/74LS143.png) | [74LS143.circ](circ/74LS143.circ) | |
+| 74LS144 | decade counter/latch/decoder/7-segment driver | ![](png/74LS144.png) | [74LS144.circ](circ/74LS144.circ) | |
+| 74LS145 | BCD to decimal decoder/driver | ![](png/74LS145.png) | [74LS145.circ](circ/74LS145.circ) | |
+| 74LS146 | 3-to-8 line decoder | ![](png/74LS146.png) | [74LS146.circ](circ/74LS146.circ) | |
 | 74LS147 | 10-line to 4-line priority encoder | ![](png/74LS147.png) | [74LS147.circ](circ/74LS147.circ) | |
 | 74LS155 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
 | 74LS157 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS157.png) | [74LS157.circ](circ/74LS157.circ) | |
