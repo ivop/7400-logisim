@@ -64,9 +64,10 @@ Have fun!
 | 74LS153 | dual 4-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS153.png) | [74LS153.circ](circ/74LS153.circ) | |
 | 74LS154 | 4-to-16 line decoder/demultiplexer, inverting outputs | ![](png/74LS154.png) | [74LS154.circ](circ/74LS154.circ) | |
 | 74LS155 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
-| 74LS156 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, open collector | ![](png/74LS156.png) | [74LS156.circ](circ/74LS156.circ) | |
+| 74LS156 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, open-collector | ![](png/74LS156.png) | [74LS156.circ](circ/74LS156.circ) | |
 | 74LS157 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS157.png) | [74LS157.circ](circ/74LS157.circ) | |
 | 74LS158 | quad 2-line to 1-line data selector/multiplexer, inverting outputs | ![](png/74LS158.png) | [74LS158.circ](circ/74LS158.circ) | |
+| 74LS159 | 4-to-16 line decoder/demultiplexer, open-collector | ![](png/74LS159.png) | [74LS159.circ](circ/74LS159.circ) | |
 | 74LS163 | synchronous presettable 4-bit binary counter, synchronous clear | ![](png/74LS163.png) | [74LS163.circ](circ/74LS163.circ) | |
 | 74LS164 | 8-bit serial-in parallel-out (SIPO) shift register, asynchronous clear | ![](png/74LS164.png) | [74LS164.circ](circ/74LS164.circ) | |
 | 74LS165 | 8-bit parallel-in serial-out (PISO) shift register, parallel load, complementary outputs | ![](png/74LS165.png) | [74LS165.circ](circ/74LS165.circ) | |
@@ -75,6 +76,9 @@ Have fun!
 | 74LS168 | synchronous presettable 4-bit up/down decade counter | ![](png/74LS168.png) | [74LS168.circ](circ/74LS168.circ) | datasheet bug fixed |
 | 74LS169 | synchronous presettable 4-bit up/down binary counter | ![](png/74LS169.png) | [74LS169.circ](circ/74LS169.circ) | |
 | 74LS175 | quad D edge-triggered flip-flop, complementary outputs and asynchronous clear | ![](png/74LS175.png) | [74LS175.circ](circ/74LS175.circ) | |
+| 74LS180 | 9-bit odd/even parity bit generator and checker | ![](png/74LS180.png) | [74LS180.circ](circ/74LS180.circ) | |
+| 74LS181 | 4-bit arithmetic logic unit and function generator | ![](png/74LS181.png) | [74LS181.circ](circ/74LS181.circ) | |
+| 74LS182 | lookahead carry generator | ![](png/74LS182.png) | [74LS182.circ](circ/74LS182.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
 | 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
