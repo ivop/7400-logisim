@@ -56,7 +56,15 @@ Have fun!
 | 74LS145 | BCD to decimal decoder/driver | ![](png/74LS145.png) | [74LS145.circ](circ/74LS145.circ) | |
 | 74LS146 | 3-to-8 line decoder | ![](png/74LS146.png) | [74LS146.circ](circ/74LS146.circ) | |
 | 74LS147 | 10-line to 4-line priority encoder | ![](png/74LS147.png) | [74LS147.circ](circ/74LS147.circ) | |
+| 74LS148 | 8-line to 3-line priority encoder | ![](png/74LS148.png) | [74LS148.circ](circ/74LS148.circ) | |
+| 74LS149 | 8-line to 8-line priority encoder | ![](png/74LS149.png) | [74LS149.circ](circ/74LS149.circ) | |
+| 74LS150 | 16-line to 1-line data selector/multiplexer | ![](png/74LS150.png) | [74LS150.circ](circ/74LS150.circ) | |
+| 74LS151 | 8-line to 1-line data selector/multiplexer | ![](png/74LS151.png) | [74LS151.circ](circ/74LS151.circ) | |
+| 74LS152 | 8-line to 1-line data selector/multiplexer, inverting output | ![](png/74LS152.png) | [74LS152.circ](circ/74LS152.circ) | |
+| 74LS153 | dual 4-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS153.png) | [74LS153.circ](circ/74LS153.circ) | |
+| 74LS154 | 4-to-16 line decoder/demultiplexer, inverting outputs | ![](png/74LS154.png) | [74LS154.circ](circ/74LS154.circ) | |
 | 74LS155 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
+| 74LS156 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, open collector | ![](png/74LS156.png) | [74LS156.circ](circ/74LS156.circ) | |
 | 74LS157 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS157.png) | [74LS157.circ](circ/74LS157.circ) | |
 | 74LS163 | synchronous presettable 4-bit binary counter, synchronous clear | ![](png/74LS163.png) | [74LS163.circ](circ/74LS163.circ) | |
 | 74LS164 | 8-bit serial-in parallel-out (SIPO) shift register, asynchronous clear | ![](png/74LS164.png) | [74LS164.circ](circ/74LS164.circ) | |
