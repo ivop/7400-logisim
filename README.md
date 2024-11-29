@@ -66,6 +66,7 @@ Have fun!
 | 74LS155 | dual 2-to-4 line decoder/demultiplexer, inverting outputs | ![](png/74LS155.png) | [74LS155.circ](circ/74LS155.circ) | |
 | 74LS156 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, open collector | ![](png/74LS156.png) | [74LS156.circ](circ/74LS156.circ) | |
 | 74LS157 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS157.png) | [74LS157.circ](circ/74LS157.circ) | |
+| 74LS158 | quad 2-line to 1-line data selector/multiplexer, inverting outputs | ![](png/74LS158.png) | [74LS158.circ](circ/74LS158.circ) | |
 | 74LS163 | synchronous presettable 4-bit binary counter, synchronous clear | ![](png/74LS163.png) | [74LS163.circ](circ/74LS163.circ) | |
 | 74LS164 | 8-bit serial-in parallel-out (SIPO) shift register, asynchronous clear | ![](png/74LS164.png) | [74LS164.circ](circ/74LS164.circ) | |
 | 74LS165 | 8-bit parallel-in serial-out (PISO) shift register, parallel load, complementary outputs | ![](png/74LS165.png) | [74LS165.circ](circ/74LS165.circ) | |
