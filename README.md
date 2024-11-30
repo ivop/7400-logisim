@@ -80,7 +80,7 @@ Have fun!
 | 74LS181 | 4-bit arithmetic logic unit and function generator | ![](png/74LS181.png) | [74LS181.circ](circ/74LS181.circ) | |
 | 74LS182 | lookahead carry generator | ![](png/74LS182.png) | [74LS182.circ](circ/74LS182.circ) | |
 | 74LS183 | dual carry-save full adder | ![](png/74LS183.png) | [74LS183.circ](circ/74LS183.circ) | |
-| 74LS189 | 64-bit RAM (16x4), 4 data inputs, 4 inverted data outputs | ![](png/74LS189.png) | [74LS189](circ/74LS189.circ) | |
+| 74LS189 | 64-bit RAM (16x4), 4 data inputs, 4 inverted data outputs | ![](png/74LS189.png) | [74LS189.circ](circ/74LS189.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
 | 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
