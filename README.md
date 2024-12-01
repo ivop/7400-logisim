@@ -81,6 +81,10 @@ Have fun!
 | 74LS182 | lookahead carry generator | ![](png/74LS182.png) | [74LS182.circ](circ/74LS182.circ) | |
 | 74LS183 | dual carry-save full adder | ![](png/74LS183.png) | [74LS183.circ](circ/74LS183.circ) | |
 | 74LS189 | 64-bit RAM (16x4), 4 data inputs, 4 inverted data outputs | ![](png/74LS189.png) | [74LS189.circ](circ/74LS189.circ) | |
+| 74LS190 | synchronous presettable up/down 4-bit decade counter | ![](png/74LS190.png) | [74LS190.circ](circ/74LS190.circ) | |
+| 74LS191 | synchronous presettable up/down 4-bit binary counter | ![](png/74LS191.png) | [74LS191.circ](circ/74LS191.circ) | |
+| 74LS192 | synchronous presettable up/down 4-bit decade counter, clear | ![](png/74LS192.png) | [74LS192.circ](circ/74LS192.circ) | |
+| 74LS193 | synchronous presettable up/down 4-bit binary counter, clear | ![](png/74LS193.png) | [74LS193.circ](circ/74LS193.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
 | 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
