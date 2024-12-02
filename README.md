@@ -87,6 +87,12 @@ Have fun!
 | 74LS191 | synchronous presettable up/down 4-bit binary counter | ![](png/74LS191.png) | [74LS191.circ](circ/74LS191.circ) | |
 | 74LS192 | synchronous presettable up/down 4-bit decade counter, clear | ![](png/74LS192.png) | [74LS192.circ](circ/74LS192.circ) | |
 | 74LS193 | synchronous presettable up/down 4-bit binary counter, clear | ![](png/74LS193.png) | [74LS193.circ](circ/74LS193.circ) | |
+| 74LS194 | 4-bit bidirectional universal shift register | ![](png/74LS194.png) | [74LS194.circ](circ/74LS194.circ) | |
+| 74LS195 | 4-bit parallel-access shift register | ![](png/74LS195.png) | [74LS195.circ](circ/74LS195.circ) | |
+| 74LS196 | presettable 4-bit decade counter/latch | ![](png/74LS196.png) | [74LS196.circ](circ/74LS196.circ) | |
+| 74LS197 | presettable 4-bit binary counter/latch | ![](png/74LS197.png) | [74LS197.circ](circ/74LS197.circ) | |
+| 74LS198 | 8-bit bidirectional universal shift register | ![](png/74LS198.png) | [74LS198.circ](circ/74LS198.circ) | |
+| 74LS199 | 8-bit universal shift register, J-NotK serial inputs | ![](png/74LS199.png) | [74LS199.circ](circ/74LS199.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
 | 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
