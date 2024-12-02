@@ -76,6 +76,8 @@ Have fun!
 | 74LS168 | synchronous presettable 4-bit up/down decade counter | ![](png/74LS168.png) | [74LS168.circ](circ/74LS168.circ) | datasheet bug fixed |
 | 74LS169 | synchronous presettable 4-bit up/down binary counter | ![](png/74LS169.png) | [74LS169.circ](circ/74LS169.circ) | |
 | 74LS175 | quad D edge-triggered flip-flop, complementary outputs and asynchronous clear | ![](png/74LS175.png) | [74LS175.circ](circ/74LS175.circ) | |
+| 74LS176 | presettable decade (bi-quinary) counter/latch | ![](png/74LS176.png) | [74LS176.circ](circ/74LS176.circ) | |
+| 74LS177 | presettable binary counter/latch | ![](png/74LS177.png) | [74LS177.circ](circ/74LS177.circ) | |
 | 74LS180 | 9-bit odd/even parity bit generator and checker | ![](png/74LS180.png) | [74LS180.circ](circ/74LS180.circ) | |
 | 74LS181 | 4-bit arithmetic logic unit and function generator | ![](png/74LS181.png) | [74LS181.circ](circ/74LS181.circ) | |
 | 74LS182 | lookahead carry generator | ![](png/74LS182.png) | [74LS182.circ](circ/74LS182.circ) | |
