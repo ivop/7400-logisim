@@ -6,7 +6,13 @@
   <lib desc="#Gates" name="1"/>
   <lib desc="#Plexers" name="2"/>
   <lib desc="#Arithmetic" name="3"/>
-  <lib desc="#Memory" name="4"/>
+  <lib desc="#Memory" name="4">
+    <tool name="ROM">
+      <a name="contents">addr/data: 8 8
+0
+</a>
+    </tool>
+  </lib>
   <lib desc="#I/O" name="5"/>
   <lib desc="#Base" name="6">
     <tool name="Text Tool">
@@ -57,37 +63,38 @@
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
     <appear>
-      <rect fill="#ffff00" height="180" stroke="#000000" stroke-width="2" width="130" x="50" y="50"/>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="94">1D (4)</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="114">2D (5)</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="134">3D (12)</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="154">4D (13)</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="174">CLOCK (9)</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="194">/CLEAR (1)</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="74">(2) 1Q</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="94">(3) 1/Q</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="114">(7) 2Q</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="134">(6) 2/Q</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="154">(10) 3Q</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="174">(11) 3/Q</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="194">(15) 4Q</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="175" y="214">(14) 4/Q</text>
-      <text font-family="SansSerif" font-size="14" font-weight="bold" text-anchor="middle" x="112" y="47">74LS175</text>
+      <rect fill="#ffff00" height="120" stroke="#000000" stroke-width="2" width="61" x="50" y="50"/>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="94">1D</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="114">2D</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="134">3D</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="154">4D</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="74">CLK</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="64">CLR</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="105" y="94">1Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="104" y="104">1/Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="105" y="114">2Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="104" y="124">2/Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="105" y="134">3Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="104" y="144">3/Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="105" y="154">4Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="104" y="164">4/Q</text>
+      <text font-family="SansSerif" font-size="12" font-weight="bold" text-anchor="middle" x="79" y="46">74LS175</text>
+      <polyline fill="none" points="55,55 74,55" stroke="#000000"/>
       <circ-port height="8" pin="90,110" width="8" x="46" y="86"/>
       <circ-port height="8" pin="90,170" width="8" x="46" y="106"/>
       <circ-port height="8" pin="90,230" width="8" x="46" y="126"/>
       <circ-port height="8" pin="90,290" width="8" x="46" y="146"/>
-      <circ-port height="8" pin="90,360" width="8" x="46" y="166"/>
-      <circ-port height="8" pin="90,390" width="8" x="46" y="186"/>
-      <circ-port height="10" pin="200,90" width="10" x="175" y="65"/>
-      <circ-port height="10" pin="200,110" width="10" x="175" y="85"/>
-      <circ-port height="10" pin="200,150" width="10" x="175" y="105"/>
-      <circ-port height="10" pin="200,170" width="10" x="175" y="125"/>
-      <circ-port height="10" pin="200,210" width="10" x="175" y="145"/>
-      <circ-port height="10" pin="200,230" width="10" x="175" y="165"/>
-      <circ-port height="10" pin="200,270" width="10" x="175" y="185"/>
-      <circ-port height="10" pin="200,290" width="10" x="175" y="205"/>
-      <circ-anchor facing="east" height="6" width="6" x="117" y="137"/>
+      <circ-port height="8" pin="90,360" width="8" x="46" y="66"/>
+      <circ-port height="8" pin="90,390" width="8" x="46" y="56"/>
+      <circ-port height="10" pin="200,90" width="10" x="105" y="85"/>
+      <circ-port height="10" pin="200,110" width="10" x="105" y="95"/>
+      <circ-port height="10" pin="200,150" width="10" x="105" y="105"/>
+      <circ-port height="10" pin="200,170" width="10" x="105" y="115"/>
+      <circ-port height="10" pin="200,210" width="10" x="105" y="125"/>
+      <circ-port height="10" pin="200,230" width="10" x="105" y="135"/>
+      <circ-port height="10" pin="200,270" width="10" x="105" y="145"/>
+      <circ-port height="10" pin="200,290" width="10" x="105" y="155"/>
+      <circ-anchor facing="east" height="6" width="6" x="77" y="77"/>
     </appear>
     <wire from="(90,110)" to="(150,110)"/>
     <wire from="(90,170)" to="(150,170)"/>
@@ -128,50 +135,15 @@
       <a name="tristate" val="false"/>
       <a name="label" val="3D"/>
     </comp>
-    <comp lib="0" loc="(200,150)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="2Q"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(90,110)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="1D"/>
-    </comp>
-    <comp lib="4" loc="(190,90)" name="D Flip-Flop"/>
     <comp lib="0" loc="(90,390)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="/CLEAR"/>
     </comp>
     <comp lib="4" loc="(190,210)" name="D Flip-Flop"/>
-    <comp lib="4" loc="(190,150)" name="D Flip-Flop"/>
-    <comp lib="0" loc="(90,170)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="2D"/>
-    </comp>
-    <comp lib="6" loc="(134,53)" name="Text">
-      <a name="text" val="74LS175"/>
-      <a name="font" val="SansSerif bold 24"/>
-    </comp>
     <comp lib="0" loc="(200,210)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="label" val="3Q"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(200,170)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="2/Q"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="1" loc="(120,390)" name="NOT Gate">
-      <a name="size" val="20"/>
-    </comp>
-    <comp lib="0" loc="(200,290)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="4/Q"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(200,230)" name="Pin">
@@ -188,10 +160,38 @@
       <a name="tristate" val="false"/>
       <a name="label" val="CLOCK"/>
     </comp>
+    <comp lib="4" loc="(190,90)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(90,170)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2D"/>
+    </comp>
+    <comp lib="6" loc="(134,53)" name="Text">
+      <a name="text" val="74LS175"/>
+      <a name="font" val="SansSerif bold 24"/>
+    </comp>
     <comp lib="0" loc="(200,110)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="label" val="1/Q"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(200,270)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="4Q"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(90,110)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1D"/>
+    </comp>
+    <comp lib="1" loc="(120,390)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(200,150)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2Q"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(200,90)" name="Pin">
@@ -200,10 +200,17 @@
       <a name="label" val="1Q"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(200,270)" name="Pin">
+    <comp lib="0" loc="(200,170)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
-      <a name="label" val="4Q"/>
+      <a name="label" val="2/Q"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="4" loc="(190,150)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(200,290)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="4/Q"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="4" loc="(190,270)" name="D Flip-Flop"/>
