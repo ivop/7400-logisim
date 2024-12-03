@@ -98,6 +98,13 @@ Have fun!
 | 74LS197 | presettable 4-bit binary counter/latch | ![](png/74LS197.png) | [74LS197.circ](circ/74LS197.circ) | |
 | 74LS198 | 8-bit bidirectional universal shift register | ![](png/74LS198.png) | [74LS198.circ](circ/74LS198.circ) | |
 | 74LS199 | 8-bit universal shift register, J-NotK serial inputs | ![](png/74LS199.png) | [74LS199.circ](circ/74LS199.circ) | |
+| 74LS200 | 256-bit RAM (256x1), three-state | ![](png/74LS200.png) | [74LS200.circ](circ/74LS200.circ) | |
+| 74LS201 | 256-bit RAM (256x1), three-state | ![](png/74LS201.png) | [74LS201.circ](circ/74LS201.circ) | |
+| 74LS202 | 256-bit RAM (256x1), three-state | ![](png/74LS202.png) | [74LS202.circ](circ/74LS202.circ) | |
+| 74LS206 | 256-bit RAM (256x1), open-collector | ![](png/74LS206.png) | [74LS206.circ](circ/74LS206.circ) | |
+| 74LS208 | 1024-bit RAM (256x4), separate data in- and outputs, three-state | ![](png/74LS208.png) | [74LS208.circ](circ/74LS208.circ) | |
+| 74LS209 | 1024-bit RAM (1024x1), three-state | ![](png/74LS209.png) | [74LS209.circ](circ/74LS209.circ) | |
+| 74LS210 | octal buffer, inverting, three-state | ![](png/74LS210.png) | [74LS210.circ](circ/74LS210.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
 | 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
