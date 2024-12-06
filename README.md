@@ -114,7 +114,7 @@ Have fun!
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
 | 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
-| 74LS238 | 3-to-8 line decoder/demultiplexer, active high outputs | ![](png/74LS228.png) | [74LS238.circ](circ/74LS238.circ) | |
+| 74LS238 | 3-to-8 line decoder/demultiplexer, active high outputs | ![](png/74LS238.png) | [74LS238.circ](circ/74LS238.circ) | |
 | 74LS239 | dual 2-to-4 line decoder/demultiplexer, active high outputs | ![](png/74LS239.png) | [74LS239.circ](circ/74LS239.circ) | |
 | 74LS240 | octal buffer, inverting outputs, three-state | ![](png/74LS240.png) | [74LS240.circ](circ/74LS240.circ) | |
 | 74LS241 | octal buffer, non-inverting outputs, three-state | ![](png/74LS241.png) | [74LS241.circ](circ/74LS241.circ) | |
