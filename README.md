@@ -105,9 +105,17 @@ Have fun!
 | 74LS208 | 1024-bit RAM (256x4), separate data in- and outputs, three-state | ![](png/74LS208.png) | [74LS208.circ](circ/74LS208.circ) | |
 | 74LS209 | 1024-bit RAM (1024x1), three-state | ![](png/74LS209.png) | [74LS209.circ](circ/74LS209.circ) | |
 | 74LS210 | octal buffer, inverting, three-state | ![](png/74LS210.png) | [74LS210.circ](circ/74LS210.circ) | |
+| 74LS214 | 1024-bit RAM (1024x1), three-state | ![](png/74LS214.png) | [74LS214.circ](circ/74LS214.circ) | |
+| 74LS215 | 1024-bit RAM (1024x1) , three-state | ![](png/74LS215.png) | [74LS215.circ](circ/74LS215.circ) | |
+| 74LS216 | 256-bit RAM (64x4), common I/O, three-state | ![](png/74LS216.png) | [74LS216.circ](circ/74LS216.circ) | |
+| 74LS217 | 256-bit RAM (64x4), three-state | ![](png/74LS217.png) | [74LS217.circ](circ/74LS217.circ) | |
+| 74LS218 | 256-bit RAM (32x8), three-state | ![](png/74LS218.png) | [74LS218.circ](circ/74LS218.circ) | |
+| 74LS226 | 4-bit parallel latched bus transceiver, three-state | ![](png/74LS226.png) | [74LS226.circ](circ/74LS226.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
 | 74LS237 | 3-to-8 line decoder/demultiplexer, address latch, active high outputs | ![](png/74LS237.png) | [74LS237.circ](circ/74LS237.circ) | |
+| 74LS238 | 3-to-8 line decoder/demultiplexer, active high outputs | ![](png/74LS228.png) | [74LS238.circ](circ/74LS238.circ) | |
+| 74LS239 | dual 2-to-4 line decoder/demultiplexer, active high outputs | ![](png/74LS239.png) | [74LS239.circ](circ/74LS239.circ) | |
 | 74LS240 | octal buffer, inverting outputs, three-state | ![](png/74LS240.png) | [74LS240.circ](circ/74LS240.circ) | |
 | 74LS241 | octal buffer, non-inverting outputs, three-state | ![](png/74LS241.png) | [74LS241.circ](circ/74LS241.circ) | |
 | 74LS244 | octal buffer, non-inverting outputs, three-state | ![](png/74LS244.png) | [74LS244.circ](circ/74LS244.circ) | |
