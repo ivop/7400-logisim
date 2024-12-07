@@ -110,6 +110,7 @@ Have fun!
 | 74LS216 | 256-bit RAM (64x4), common I/O, three-state | ![](png/74LS216.png) | [74LS216.circ](circ/74LS216.circ) | |
 | 74LS217 | 256-bit RAM (64x4), three-state | ![](png/74LS217.png) | [74LS217.circ](circ/74LS217.circ) | |
 | 74LS218 | 256-bit RAM (32x8), three-state | ![](png/74LS218.png) | [74LS218.circ](circ/74LS218.circ) | |
+| 74LS219 | 64-bit RAM (16x4), non-inverting outputs, three-state | ![](png/74LS219.png) [74LS219.circ](circ/74LS219.circ) | |
 | 74LS226 | 4-bit parallel latched bus transceiver, three-state | ![](png/74LS226.png) | [74LS226.circ](circ/74LS226.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
@@ -118,7 +119,13 @@ Have fun!
 | 74LS239 | dual 2-to-4 line decoder/demultiplexer, active high outputs | ![](png/74LS239.png) | [74LS239.circ](circ/74LS239.circ) | |
 | 74LS240 | octal buffer, inverting outputs, three-state | ![](png/74LS240.png) | [74LS240.circ](circ/74LS240.circ) | |
 | 74LS241 | octal buffer, non-inverting outputs, three-state | ![](png/74LS241.png) | [74LS241.circ](circ/74LS241.circ) | |
+| 74LS242 | quad bus transceiver, inverting outputs, three-state | ![](png/74LS242.png) | [74LS242.circ](circ/74LS242.circ) | |
+| 74LS243 | quad bus transceiver, non-inverting outputs, three-state | ![](png/74LS243.png) | [74LS243.circ](circ/74LS243.circ) | |
 | 74LS244 | octal buffer, non-inverting outputs, three-state | ![](png/74LS244.png) | [74LS244.circ](circ/74LS244.circ) | |
 | 74LS245 | octal bus transceiver, non-inverting outputs | ![](png/74LS245.png) | [74LS245.circ](circ/74LS245.circ) | |
+| 74LS246 | BCD to 7-segment decoder/driver, 30V, active low, open-collector | ![](png/74LS246.png) | [74LS246.circ](circ/74LS246.circ) | |
+| 74LS247 | BCD to 7-segment decoder/driver, 15V, active low, open-collector | ![](png/74LS247.png) | [74LS247.circ](circ/74LS247.circ) | |
+| 74LS248 | BCD to 7-segment decoder/driver, active high, open-collector, internal 2k pull-up | ![](png/74LS248.png) | [74LS248.circ](circ/74LS248.circ) | |
+| 74LS249 | BCD to 7-segment decoder/driver, active high, open-collector | ![](png/74LS249.png) | [74LS249.circ](circ/74LS249.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
