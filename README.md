@@ -110,7 +110,7 @@ Have fun!
 | 74LS216 | 256-bit RAM (64x4), common I/O, three-state | ![](png/74LS216.png) | [74LS216.circ](circ/74LS216.circ) | |
 | 74LS217 | 256-bit RAM (64x4), three-state | ![](png/74LS217.png) | [74LS217.circ](circ/74LS217.circ) | |
 | 74LS218 | 256-bit RAM (32x8), three-state | ![](png/74LS218.png) | [74LS218.circ](circ/74LS218.circ) | |
-| 74LS219 | 64-bit RAM (16x4), non-inverting outputs, three-state | ![](png/74LS219.png) [74LS219.circ](circ/74LS219.circ) | |
+| 74LS219 | 64-bit RAM (16x4), non-inverting outputs, three-state | ![](png/74LS219.png) | [74LS219.circ](circ/74LS219.circ) | |
 | 74LS226 | 4-bit parallel latched bus transceiver, three-state | ![](png/74LS226.png) | [74LS226.circ](circ/74LS226.circ) | |
 | 74LS230 | dual 4-bit buffer/driver, one inverted, one non-inverted; negative enable | ![](png/74LS230.png) | [74LS230.circ](circ/74LS230.circ) | |
 | 74LS231 | dual 4-bit buffer/driver, both inverted; one positive and one negative enable | ![](png/74LS231.png) | [74LS231.circ](circ/74LS231.circ) | |
