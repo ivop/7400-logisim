@@ -127,9 +127,9 @@ Have fun!
 | 74LS247 | BCD to 7-segment decoder/driver, 15V, active low, open-collector | ![](png/74LS247.png) | [74LS247.circ](circ/74LS247.circ) | |
 | 74LS248 | BCD to 7-segment decoder/driver, active high, open-collector, internal 2k pull-up | ![](png/74LS248.png) | [74LS248.circ](circ/74LS248.circ) | |
 | 74LS249 | BCD to 7-segment decoder/driver, active high, open-collector | ![](png/74LS249.png) | [74LS249.circ](circ/74LS249.circ) | |
-| 74LS250 | 1 of 16 data selector/multiplexer, three-state | ![](png/74LS250.png) | [74LS250.circ](circ/74LS250.circ] | |
-| 74LS251 | 8-line to 1-line data selector/multiplexer, complementary outputs, three-state | ![](png/74LS251.png) | [74LS251.circ](circ/74LS251.circ] | |
-| 74LS253 | dual 4-line to 1-line data selector/multiplexer, three-state | ![](png/74LS253.png) | [74LS253.circ](circ/74LS253.circ] | |
-| 74LS255 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, three-state | ![](png/74LS255.png) | [74LS255.circ](circ/74LS255.circ] | |
+| 74LS250 | 1 of 16 data selector/multiplexer, three-state | ![](png/74LS250.png) | [74LS250.circ](circ/74LS250.circ) | |
+| 74LS251 | 8-line to 1-line data selector/multiplexer, complementary outputs, three-state | ![](png/74LS251.png) | [74LS251.circ](circ/74LS251.circ) | |
+| 74LS253 | dual 4-line to 1-line data selector/multiplexer, three-state | ![](png/74LS253.png) | [74LS253.circ](circ/74LS253.circ) | |
+| 74LS255 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, three-state | ![](png/74LS255.png) | [74LS255.circ](circ/74LS255.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
