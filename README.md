@@ -53,6 +53,7 @@ Have fun!
 | 74LS99 | 4-bit bidirectional universal shift register | ![](png/74LS99.png) | [74LS99.circ](circ/74LS99.circ) | |
 
 ## 100-199
+[back to top](#7400-logisim)
 
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
@@ -112,6 +113,7 @@ Have fun!
 | 74LS199 | 8-bit universal shift register, J-NotK serial inputs | ![](png/74LS199.png) | [74LS199.circ](circ/74LS199.circ) | |
 
 ## 200-299
+[back to top](#7400-logisim)
 
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
@@ -150,6 +152,7 @@ Have fun!
 | 74LS255 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, three-state | ![](png/74LS255.png) | [74LS255.circ](circ/74LS255.circ) | |
 
 ## 300-399
+[back to top](#7400-logisim)
 
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
