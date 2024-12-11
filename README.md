@@ -8,6 +8,13 @@ Despite some of its UI related bugs, 2.7.1 is a fixed target.
 New circuits are added on a need-to-have basis (or when I'm bored).
 Have fun!
 
+* [1-99](#1-99)
+* [100-199](#100-199)
+* [200-299](#200-299)
+* [300-399](#300-399)
+
+## 1-99
+
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
 | 74LS01, 74LS03, 74LS09, 74LS26, 74LS38, 74LS39 | quad 2-input NAND gate, open-collector | ![](png/nand2_oc.png) | [NAND2_OC.circ](circ/NAND_OC.circ) | |
@@ -44,6 +51,11 @@ Have fun!
 | 74LS97 | synchronous 6-bit binary rate multiplier | ![](png/74LS97.png) | [74LS97.circ](circ/74LS97.circ) | |
 | 74LS98 | 4-bit data selector/storage register | ![](png/74LS98.png) | [74LS98.circ](circ/74LS98.circ) | |
 | 74LS99 | 4-bit bidirectional universal shift register | ![](png/74LS99.png) | [74LS99.circ](circ/74LS99.circ) | |
+
+## 100-199
+
+| Part | Description | Symbol | Circuit | Notes |
+| --- | --- | --- | --- | --- |
 | 74LS100 | dual 4-bit bistable latch | ![](png/74LS100.png) | [74LS100.circ](circ/74LS100.circ) | |
 | 74L116 | dual 4-bit latch, clear | ![](png/74L116.png) | [74L116.circ](circ/74L116.circ) | |
 | 74LS137 | 3-to-8 line decoder/demultiplexer, address latch, inverting outputs | ![](png/74LS137.png) | [74LS137.circ](circ/74LS137.circ) | |
@@ -98,6 +110,11 @@ Have fun!
 | 74LS197 | presettable 4-bit binary counter/latch | ![](png/74LS197.png) | [74LS197.circ](circ/74LS197.circ) | |
 | 74LS198 | 8-bit bidirectional universal shift register | ![](png/74LS198.png) | [74LS198.circ](circ/74LS198.circ) | |
 | 74LS199 | 8-bit universal shift register, J-NotK serial inputs | ![](png/74LS199.png) | [74LS199.circ](circ/74LS199.circ) | |
+
+## 200-299
+
+| Part | Description | Symbol | Circuit | Notes |
+| --- | --- | --- | --- | --- |
 | 74LS200 | 256-bit RAM (256x1), three-state | ![](png/74LS200.png) | [74LS200.circ](circ/74LS200.circ) | |
 | 74LS201 | 256-bit RAM (256x1), three-state | ![](png/74LS201.png) | [74LS201.circ](circ/74LS201.circ) | |
 | 74LS202 | 256-bit RAM (256x1), three-state | ![](png/74LS202.png) | [74LS202.circ](circ/74LS202.circ) | |
@@ -131,5 +148,10 @@ Have fun!
 | 74LS251 | 8-line to 1-line data selector/multiplexer, complementary outputs, three-state | ![](png/74LS251.png) | [74LS251.circ](circ/74LS251.circ) | |
 | 74LS253 | dual 4-line to 1-line data selector/multiplexer, three-state | ![](png/74LS253.png) | [74LS253.circ](circ/74LS253.circ) | |
 | 74LS255 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, three-state | ![](png/74LS255.png) | [74LS255.circ](circ/74LS255.circ) | |
+
+## 300-399
+
+| Part | Description | Symbol | Circuit | Notes |
+| --- | --- | --- | --- | --- |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
