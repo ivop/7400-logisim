@@ -158,7 +158,7 @@ Have fun!
 | 74LS264 | look ahead carry generator | ![](png/74LS264.png) | [74LS264.circ](circ/74LS264.circ) | |
 | 74LS265 | quad complementary output elements | ![](png/74LS265.png) | [74LS265.circ](circ/74LS265.circ) | |
 | 74LS268 | hex D-type latches, common output control, common enable, three-state | ![](png/74LS268.png) | [74LS268.circ](circ/74LS268.circ) | |
-| 74LS269 | 8-bit bidirectional binary counter | ![](png/74LS269.png) | [74LS269.circ](circ/74LS269.circ) | |
+| 74LS269 | 8-bit bidirectional binary counter | ![](png/74LS269.png) | [74LS269.circ](circ/74LS269.circ) | datasheet bugs fixed |
 | 74LS273 | 8-bit register, asynchronous clear | ![](png/74LS273.png) | [74LS273.circ](circ/74LS273.circ) | |
 | 74LS274 | 4-bit by 4-bit binary multiplier, three-state| ![](png/74LS274.png) | [74LS274.circ](circ/74LS274.circ) | |
 | 74LS275 | 7-bit slice Wallace tree, three-state | ![](png/74LS275.png) | [74LS275.circ](circ/74LS275.circ) | |
