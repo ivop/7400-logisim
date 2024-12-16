@@ -117,9 +117,9 @@ Have fun!
 
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
-| 74LS200 | 256-bit RAM (256x1), three-state | ![](png/74LS200.png) | [74LS200.circ](circ/74LS200.circ) | |
-| 74LS201 | 256-bit RAM (256x1), three-state | ![](png/74LS201.png) | [74LS201.circ](circ/74LS201.circ) | |
-| 74LS202 | 256-bit RAM (256x1), three-state | ![](png/74LS202.png) | [74LS202.circ](circ/74LS202.circ) | |
+| 74LS200 | 256-bit RAM (256x1), inverted output, three-state | ![](png/74LS200.png) | [74LS200.circ](circ/74LS200.circ) | |
+| 74LS201 | 256-bit RAM (256x1), inverted output, three-state | ![](png/74LS201.png) | [74LS201.circ](circ/74LS201.circ) | |
+| 74LS202 | 256-bit RAM (256x1), non-inverted output, three-state | ![](png/74LS202.png) | [74LS202.circ](circ/74LS202.circ) | |
 | 74LS206 | 256-bit RAM (256x1), open-collector | ![](png/74LS206.png) | [74LS206.circ](circ/74LS206.circ) | |
 | 74LS208 | 1024-bit RAM (256x4), separate data in- and outputs, three-state | ![](png/74LS208.png) | [74LS208.circ](circ/74LS208.circ) | |
 | 74LS209 | 1024-bit RAM (1024x1), three-state | ![](png/74LS209.png) | [74LS209.circ](circ/74LS209.circ) | |
