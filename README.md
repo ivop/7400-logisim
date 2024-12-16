@@ -162,6 +162,25 @@ Have fun!
 | 74LS273 | 8-bit register, asynchronous clear | ![](png/74LS273.png) | [74LS273.circ](circ/74LS273.circ) | |
 | 74LS274 | 4-bit by 4-bit binary multiplier, three-state| ![](png/74LS274.png) | [74LS274.circ](circ/74LS274.circ) | |
 | 74LS275 | 7-bit slice Wallace tree, three-state | ![](png/74LS275.png) | [74LS275.circ](circ/74LS275.circ) | |
+| 74LS276 | quad J-NotK edge-triggered flip-flops, separate clocks, common preset and clear | ![](png/74LS276.png) | [74LS276.circ](circ/74LS276.circ) | |
+| 74LS278 | 4-bit cascadeable priority registers, latched data inputs | ![](png/74LS278.png) | [74LS278.circ](circ/74LS278.circ) | |
+| 74LS279 | quad set-reset latch | ![](png/74LS279.png) | [74LS279.circ](circ/74LS279.circ) | |
+| 74LS280 | 9-bit odd/even parity bit generator/checker | ![](png/74LS280.png) | [74LS280.circ](circ/74LS280.circ) | |
+| 74LS281 | 4-bit parallel binary accumulator | ![](png/74LS281.png) | [74LS281.circ](circ/74LS281.circ) | |
+| 74LS282 | look-ahead carry generator, selectable carry inputs | ![](png/74LS282.png) | [74LS282.circ](circ/74LS282.circ) | |
+| 74LS283 | 4-bit binary full adder, with carry in | ![](png/74LS283.png) | [74LS283.circ](circ/74LS283.circ) | |
+| 74LS284 | 4-bit by 4-bit parallel binary multiplier (high order 4 bits of product) | ![](png/74LS284.png) | [74LS284.circ](circ/74LS284.circ) | |
+| 74LS285 | 4-bit by 4-bit parallel binary multiplier (low order 4 bits of product) | ![](png/74LS285.png) | [74LS285.circ](circ/74LS285.circ) | |
+| 74LS286 | 9-bit parity generator/checker, bus driver parity I/O port | ![](png/74LS286.png) | [74LS286.circ](circ/74LS286.circ) | |
+| 74LS289 | 64-bit RAM (16x4), 4 data inputs, 4 inverted data outputs | ![](png/74LS289.png) | [74LS289.circ](circ/74LS289.circ) | |
+| 74LS290 | decade counter (separate divide-by-2 and divide-by-5 sections) | ![](png/74LS290.png) | [74LS290.circ](circ/74LS290.circ) | |
+| 74LS292 | programmable frequency divider/digital timer | ![](png/74LS292.png) | [74LS292.circ](circ/74LS292.circ) | |
+| 74LS293 | 4-bit binary counter (separate divide-by-2 and divide-by-8 sections) | ![](png/74LS293.png) | [74LS293.circ](circ/74LS293.circ) | |
+| 74LS294 | programmable frequency divider/digital timer | ![](png/74LS294.png) | [74LS294.circ](circ/74LS294.circ) | |
+| 74LS295 | 4-bit bidirectional shift register, three-state | ![](png/74LS295.png) | [74LS295.circ](circ/74LS295.circ) | |
+| 74LS298 | quad 2-input multiplexer, storage | ![](png/74LS298.png) | [74LS298.circ](circ/74LS298.circ) | |
+| 74LS299 | 8-bit bidirectional universal shift/storage register, three-state | ![](png/74LS299.png) | [74LS299.circ](circ/74LS299.circ) | |
+
 
 ## 300-399
 [back to top](#7400-logisim)
