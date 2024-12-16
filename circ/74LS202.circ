@@ -95,7 +95,7 @@
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="184">A5</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="194">A6</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="204">A7</text>
-      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="85" y="114">/DO</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="85" y="114"> DO</text>
       <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="114">DI</text>
       <text font-family="SansSerif" font-size="12" font-weight="bold" text-anchor="start" x="49" y="46">74LS202</text>
       <circ-port height="8" pin="320,50" width="8" x="46" y="106"/>
@@ -163,49 +163,13 @@
     <wire from="(90,320)" to="(100,320)"/>
     <wire from="(150,160)" to="(150,220)"/>
     <wire from="(90,340)" to="(220,340)"/>
-    <comp lib="0" loc="(90,200)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="A5"/>
-    </comp>
-    <comp lib="0" loc="(90,280)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="/E1"/>
-    </comp>
-    <comp lib="0" loc="(90,140)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="A2"/>
-    </comp>
-    <comp lib="0" loc="(90,120)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="A1"/>
-    </comp>
-    <comp lib="1" loc="(360,50)" name="Controlled Buffer"/>
     <comp lib="0" loc="(180,140)" name="Splitter">
       <a name="facing" val="west"/>
       <a name="fanout" val="8"/>
       <a name="incoming" val="8"/>
       <a name="appear" val="center"/>
     </comp>
-    <comp lib="0" loc="(90,100)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="A0"/>
-    </comp>
     <comp lib="1" loc="(440,140)" name="Controlled Inverter"/>
-    <comp lib="1" loc="(420,150)" name="AND Gate">
-      <a name="facing" val="north"/>
-      <a name="size" val="30"/>
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="0" loc="(450,140)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="/DO"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(90,320)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="/E3"/>
-    </comp>
     <comp lib="0" loc="(90,220)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="A6"/>
@@ -214,9 +178,43 @@
       <a name="tristate" val="false"/>
       <a name="label" val="DI"/>
     </comp>
-    <comp lib="0" loc="(90,300)" name="Pin">
+    <comp lib="0" loc="(90,200)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="/E2"/>
+      <a name="label" val="A5"/>
+    </comp>
+    <comp lib="1" loc="(420,150)" name="AND Gate">
+      <a name="facing" val="north"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="1" loc="(320,80)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(400,140)" name="Pull Resistor">
+      <a name="pull" val="1"/>
+    </comp>
+    <comp lib="0" loc="(90,280)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="/E1"/>
+    </comp>
+    <comp lib="1" loc="(160,300)" name="AND Gate">
+      <a name="size" val="30"/>
+      <a name="inputs" val="3"/>
+      <a name="negate0" val="true"/>
+      <a name="negate1" val="true"/>
+      <a name="negate2" val="true"/>
+    </comp>
+    <comp lib="0" loc="(90,340)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="/WE"/>
+    </comp>
+    <comp lib="0" loc="(90,240)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="A7"/>
+    </comp>
+    <comp lib="0" loc="(90,120)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="A1"/>
     </comp>
     <comp lib="4" loc="(380,140)" name="RAM">
       <a name="dataWidth" val="1"/>
@@ -226,34 +224,36 @@
       <a name="text" val="74LS202"/>
       <a name="font" val="SansSerif bold 24"/>
     </comp>
-    <comp lib="1" loc="(160,300)" name="AND Gate">
-      <a name="size" val="30"/>
-      <a name="inputs" val="3"/>
-      <a name="negate0" val="true"/>
-      <a name="negate1" val="true"/>
-      <a name="negate2" val="true"/>
+    <comp lib="0" loc="(90,100)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="A0"/>
     </comp>
-    <comp lib="1" loc="(320,80)" name="NOT Gate">
-      <a name="size" val="20"/>
+    <comp lib="0" loc="(90,320)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="/E3"/>
+    </comp>
+    <comp lib="0" loc="(450,140)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="/DO"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(360,50)" name="Controlled Buffer"/>
+    <comp lib="0" loc="(90,160)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="A3"/>
+    </comp>
+    <comp lib="0" loc="(90,300)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="/E2"/>
     </comp>
     <comp lib="0" loc="(90,180)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="A4"/>
     </comp>
-    <comp lib="0" loc="(400,140)" name="Pull Resistor">
-      <a name="pull" val="1"/>
-    </comp>
-    <comp lib="0" loc="(90,160)" name="Pin">
+    <comp lib="0" loc="(90,140)" name="Pin">
       <a name="tristate" val="false"/>
-      <a name="label" val="A3"/>
-    </comp>
-    <comp lib="0" loc="(90,340)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="/WE"/>
-    </comp>
-    <comp lib="0" loc="(90,240)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="A7"/>
+      <a name="label" val="A2"/>
     </comp>
   </circuit>
 </project>
