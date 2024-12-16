@@ -150,9 +150,9 @@ Have fun!
 | 74LS251 | 8-line to 1-line data selector/multiplexer, complementary outputs, three-state | ![](png/74LS251.png) | [74LS251.circ](circ/74LS251.circ) | |
 | 74LS253 | dual 4-line to 1-line data selector/multiplexer, three-state | ![](png/74LS253.png) | [74LS253.circ](circ/74LS253.circ) | |
 | 74LS255 | dual 2-to-4 line decoder/demultiplexer, inverting outputs, three-state | ![](png/74LS255.png) | [74LS255.circ](circ/74LS255.circ) | |
-| 74LS256 | dual 4-bit addressable latch | ![](png/74LS256.png) [74LS256.circ](circ/74LS256.circ) | |
-| 74LS257 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs, three-state | ![](png/74LS257.png) [74LS257.circ](circ/74LS257.circ) | |
-| 74LS258 | quad 2-line to 1-line data selector/multiplexer, inverting outputs, three-state | ![](png/74LS258.png) [74LS258.circ](circ/74LS258.circ) | |
+| 74LS256 | dual 4-bit addressable latch | ![](png/74LS256.png) | [74LS256.circ](circ/74LS256.circ) | |
+| 74LS257 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs, three-state | ![](png/74LS257.png) | [74LS257.circ](circ/74LS257.circ) | |
+| 74LS258 | quad 2-line to 1-line data selector/multiplexer, inverting outputs, three-state | ![](png/74LS258.png) | [74LS258.circ](circ/74LS258.circ) | |
 | 74LS259 | 8-bit bit addressable input latch with clear | ![](png/74LS259.png) | [74LS259.circ](circ/74LS259.circ) | |
 | 74LS261 | 2-bit by 4-bit parallel binary multiplier | ![](png/74LS261.png) | [74LS261.circ](circ/74LS261.circ) | |
 | 74LS264 | look ahead carry generator | ![](png/74LS264.png) | [74LS264.circ](circ/74LS264.circ) | |
