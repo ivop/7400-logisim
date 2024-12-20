@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project source="2.7.1" version="1.0">
+  This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
+
+  <lib desc="#Wiring" name="0"/>
+  <lib desc="#Gates" name="1">
+    <tool name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </tool>
+  </lib>
+  <lib desc="#Plexers" name="2"/>
+  <lib desc="#Arithmetic" name="3"/>
+  <lib desc="#Memory" name="4"/>
+  <lib desc="#I/O" name="5"/>
+  <lib desc="#Base" name="6">
+    <tool name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+  </lib>
+  <main name="74LS340"/>
+  <options>
+    <a name="gateUndefined" val="ignore"/>
+    <a name="simlimit" val="1000"/>
+    <a name="simrand" val="0"/>
+  </options>
+  <mappings>
+    <tool lib="6" map="Button2" name="Menu Tool"/>
+    <tool lib="6" map="Button3" name="Menu Tool"/>
+    <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
+  </mappings>
+  <toolbar>
+    <tool lib="6" name="Poke Tool"/>
+    <tool lib="6" name="Edit Tool"/>
+    <tool lib="6" name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+    <sep/>
+    <tool lib="0" name="Pin">
+      <a name="tristate" val="false"/>
+    </tool>
+    <tool lib="0" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </tool>
+    <tool lib="1" name="NOT Gate">
+      <a name="size" val="20"/>
+    </tool>
+    <tool lib="1" name="AND Gate"/>
+    <tool lib="1" name="OR Gate"/>
+  </toolbar>
+  <circuit name="74LS340">
+    <a name="circuit" val="74LS340"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+    <appear>
+      <rect fill="#ffff00" height="120" stroke="#000000" stroke-width="2" width="70" x="50" y="50"/>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="64">1/G</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="74">1A1</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="84">1A2</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="94">1A3</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="104">1A4</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="74">1/Y1</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="84">1/Y2</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="94">1/Y3</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="104">1/Y4</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="134">2/Y1</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="164">2A4</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="144">2A2</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="144">2/Y2</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="164">2/Y4</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="end" x="116" y="154">2/Y3</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="124">2/G</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="134">2A1</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="154">2A3</text>
+      <text font-family="SansSerif" font-size="14" font-weight="bold" text-anchor="end" x="118" y="45">74LS340</text>
+      <circ-port height="8" pin="80,80" width="8" x="46" y="56"/>
+      <circ-port height="8" pin="80,120" width="8" x="46" y="66"/>
+      <circ-port height="8" pin="80,160" width="8" x="46" y="76"/>
+      <circ-port height="8" pin="80,200" width="8" x="46" y="86"/>
+      <circ-port height="8" pin="80,240" width="8" x="46" y="96"/>
+      <circ-port height="8" pin="80,280" width="8" x="46" y="116"/>
+      <circ-port height="8" pin="80,320" width="8" x="46" y="126"/>
+      <circ-port height="8" pin="80,360" width="8" x="46" y="136"/>
+      <circ-port height="8" pin="80,400" width="8" x="46" y="146"/>
+      <circ-port height="8" pin="80,440" width="8" x="46" y="156"/>
+      <circ-port height="10" pin="160,120" width="10" x="115" y="65"/>
+      <circ-port height="10" pin="160,160" width="10" x="115" y="75"/>
+      <circ-port height="10" pin="160,200" width="10" x="115" y="85"/>
+      <circ-port height="10" pin="160,240" width="10" x="115" y="95"/>
+      <circ-port height="10" pin="160,320" width="10" x="115" y="125"/>
+      <circ-port height="10" pin="160,360" width="10" x="115" y="135"/>
+      <circ-port height="10" pin="160,400" width="10" x="115" y="145"/>
+      <circ-port height="10" pin="160,440" width="10" x="115" y="155"/>
+      <circ-anchor facing="east" height="6" width="6" x="77" y="107"/>
+    </appear>
+    <wire from="(140,210)" to="(140,220)"/>
+    <wire from="(140,250)" to="(140,260)"/>
+    <wire from="(140,170)" to="(140,180)"/>
+    <wire from="(140,130)" to="(140,140)"/>
+    <wire from="(140,410)" to="(140,420)"/>
+    <wire from="(140,450)" to="(140,460)"/>
+    <wire from="(140,370)" to="(140,380)"/>
+    <wire from="(140,330)" to="(140,340)"/>
+    <wire from="(80,360)" to="(130,360)"/>
+    <wire from="(80,240)" to="(130,240)"/>
+    <wire from="(80,320)" to="(130,320)"/>
+    <wire from="(80,160)" to="(130,160)"/>
+    <wire from="(80,200)" to="(130,200)"/>
+    <wire from="(80,120)" to="(130,120)"/>
+    <wire from="(80,440)" to="(130,440)"/>
+    <wire from="(80,400)" to="(130,400)"/>
+    <wire from="(120,220)" to="(120,260)"/>
+    <wire from="(120,180)" to="(120,220)"/>
+    <wire from="(120,140)" to="(120,180)"/>
+    <wire from="(120,340)" to="(120,380)"/>
+    <wire from="(120,420)" to="(120,460)"/>
+    <wire from="(120,380)" to="(120,420)"/>
+    <wire from="(120,220)" to="(140,220)"/>
+    <wire from="(120,260)" to="(140,260)"/>
+    <wire from="(120,180)" to="(140,180)"/>
+    <wire from="(120,140)" to="(140,140)"/>
+    <wire from="(120,340)" to="(140,340)"/>
+    <wire from="(120,420)" to="(140,420)"/>
+    <wire from="(120,460)" to="(140,460)"/>
+    <wire from="(120,380)" to="(140,380)"/>
+    <wire from="(150,240)" to="(160,240)"/>
+    <wire from="(150,160)" to="(160,160)"/>
+    <wire from="(150,120)" to="(160,120)"/>
+    <wire from="(150,200)" to="(160,200)"/>
+    <wire from="(150,360)" to="(160,360)"/>
+    <wire from="(150,320)" to="(160,320)"/>
+    <wire from="(150,440)" to="(160,440)"/>
+    <wire from="(150,400)" to="(160,400)"/>
+    <wire from="(80,80)" to="(90,80)"/>
+    <wire from="(80,280)" to="(90,280)"/>
+    <wire from="(110,80)" to="(120,80)"/>
+    <wire from="(110,280)" to="(120,280)"/>
+    <wire from="(120,80)" to="(120,140)"/>
+    <wire from="(120,280)" to="(120,340)"/>
+    <comp lib="0" loc="(80,160)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A2"/>
+    </comp>
+    <comp lib="0" loc="(80,320)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A1"/>
+    </comp>
+    <comp lib="0" loc="(160,240)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="1Y4"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(150,320)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(80,280)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2/G"/>
+    </comp>
+    <comp lib="0" loc="(80,80)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1/G"/>
+    </comp>
+    <comp lib="0" loc="(160,400)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2Y3"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(160,360)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2Y2"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(160,120)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="1Y1"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(80,240)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A4"/>
+    </comp>
+    <comp lib="1" loc="(110,80)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(160,160)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="1Y2"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(80,200)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A3"/>
+    </comp>
+    <comp lib="1" loc="(150,400)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(160,320)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2Y1"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(110,280)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(80,120)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A1"/>
+    </comp>
+    <comp lib="0" loc="(160,440)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2Y4"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(80,360)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A2"/>
+    </comp>
+    <comp lib="1" loc="(150,360)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="6" loc="(95,48)" name="Text">
+      <a name="text" val="74LS340"/>
+      <a name="font" val="SansSerif bold 24"/>
+    </comp>
+    <comp lib="1" loc="(150,200)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="1" loc="(150,240)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(80,400)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A3"/>
+    </comp>
+    <comp lib="1" loc="(150,160)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(80,440)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A4"/>
+    </comp>
+    <comp lib="0" loc="(160,200)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="1Y3"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(150,440)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="1" loc="(150,120)" name="Controlled Inverter">
+      <a name="size" val="20"/>
+    </comp>
+  </circuit>
+</project>
