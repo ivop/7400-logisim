@@ -187,5 +187,26 @@ Have fun!
 
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
+| 74LS300 | 256-bit RAM (256x1), open-collector | ![](png/74LS300.png) | [74LS300.circ](circ/74LS300.circ) | |
+| 74LS301 | 256-bit RAM (256x1), open-collector | ![](png/74LS301.png) | [74LS301.circ](circ/74LS301.circ) | |
+| 74LS302 | 256-bit RAM (256x1), open-collector | ![](png/74LS302.png) | [74LS302.circ](circ/74LS302.circ) | |
+| 74LS303 | octal divide-by-2 clock driver, 2 outputs inverted | ![](png/74LS303.png) | [74LS303.circ](circ/74LS303.circ) | |
+| 74LS304 | octal divide-by-2 clock driver | ![](png/74LS304.png) | [74LS304.circ](circ/74LS304.circ) | |
+| 74LS305 | octal divide-by-2 clock driver, 4 outputs inverted | ![](png/74LS305.png) | [74LS305.circ](circ/74LS305.circ) | |
+| 74LS306 | 8-bit LV-TTL to GTL+ bus transceiver, three-state, open-collector | ![](png/74LS306.png) | [74LS306.circ](circ/74LS306.circ) | |
+| 74LS309 | 1024-bit RAM (1024x1), open-collector | ![](png/74LS309.png) | [74LS309.circ](circ/74LS309.circ) | |
+| 74LS310 | octal buffer, inverting, three-state | ![](png/74LS310.png) | [74LS310.circ](circ/74LS310.circ) | |
+| 74LS314 | 1024-bit RAM (1024x1), open-collector | ![](png/74LS314.png) | [74LS314.circ](circ/74LS314.circ) | |
+| 74LS315 | 1024-bit RAM (1024x1), open-collector | ![](png/74LS315.png) | [74LS315.circ](circ/74LS315.circ) | |
+| 74LS316 | 256-bit RAM (64x4), common I/O, open-collector| ![](png/74LS316.png) | [74LS316.circ](circ/74LS316.circ) | |
+| 74LS317 | 256-bit RAM (64x4), open-collector | ![](png/74LS317.png) | [74LS317.circ](circ/74LS317.circ) | |
+| 74LS318 | 256-bit RAM (32x8), open-collector | ![](png/74LS318.png) | [74LS318.circ](circ/74LS318.circ) | |
+| 74LS319 | 64-bit RAM (16x4), open-collector | ![](png/74LS319.png) | [74LS319.circ](circ/74LS319.circ) | |
+| 74LS322 | 8-bit shift register, sign extend, three-state | ![](png/74LS322.png) | [74LS322.circ](circ/74LS322.circ) | |
+| 74LS323 | 8-bit bidirectional universal shift/storage register, synchronous clear, three-state | ![](png/74LS323.png) | [74LS323.circ](circ/74LS323.circ) | |
+| 74LS337 | clock driver, three-state | ![](png/74LS337.png) | [74LS337.circ](circ/74LS337.circ) | |
+| 74LS340 | octal buffer, inverting outputs, three-state| ![](png/74LS340.png) | [74LS340.circ](circ/74LS340.circ) | |
+| 74LS341 | octal buffer, non-inverting outputs, three-state | ![](png/74LS341.png) | [74LS341.circ](circ/74LS341.circ) | |
+| 74LS344 | octal buffer, non-inverting outputs, three-state | ![](png/74LS344.png) | [74LS344.circ](circ/74LS344.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
