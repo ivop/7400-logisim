@@ -208,5 +208,18 @@ Have fun!
 | 74LS340 | octal buffer, inverting outputs, three-state| ![](png/74LS340.png) | [74LS340.circ](circ/74LS340.circ) | |
 | 74LS341 | octal buffer, non-inverting outputs, three-state | ![](png/74LS341.png) | [74LS341.circ](circ/74LS341.circ) | |
 | 74LS344 | octal buffer, non-inverting outputs, three-state | ![](png/74LS344.png) | [74LS344.circ](circ/74LS344.circ) | |
+| 74LS347 | BCD to 7-segment decoders/drivers, open-collector | ![](png/74LS347.png) | [74LS347.circ](circ/74LS347.circ) | |
+| 74LS348 | 8 to 3-line priority encoder, three-state | ![](png/74LS348.png) | [74LS348.circ](circ/74LS348.circ) | |
+| 74LS350 | 4-bit shifter, three-state | ![](png/74LS350.png) | [74LS350.circ](circ/74LS350.circ) | |
+| 74LS362 | four-phase clock generator/driver for Texas Instruments TMS9900 | ![](png/74LS362.png) | [74LS362.circ](circ/74LS362.circ) | |
+| 74LS363 | octal transparent latch, three-state | ![](png/74LS363.png) | [74LS363.circ](circ/74LS363.circ) | |
+| 74LS364 | octal edge-triggered D-type register, three-state | ![](png/74LS364.png) | [74LS364.circ](circ/74LS364.circ) | |
+| 74LS365 | hex buffer, non-inverting outputs, three-state | ![](png/74LS365.png) | [74LS365.circ](circ/74LS365.circ) | |
+| 74LS366 | hex buffer, inverting outputs, three-state | ![](png/74LS366.png) | [74LS366.circ](circ/74LS366.circ) | |
+| 74LS367 | hex buffer, non-inverting outputs, three-state | ![](png/74LS367.png) | [74LS367.circ](circ/74LS367.circ) | |
+| 74LS368 | hex buffer, inverting outputs three-state | ![](png/74LS368.png) | [74LS368.circ](circ/74LS368.circ) | |
+| 74LS373 | octal transparent latch, three-state | ![](png/74LS373.png) | [74LS373.circ](circ/74LS373.circ) | |
+| 74LS374 | octal register, three-state | ![](png/74LS374.png) | [74LS374.circ](circ/74LS374.circ) | |
+| 74LS375 | quad bistable latch | ![](png/74LS375.png) | [74LS375.circ](circ/74LS375.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
