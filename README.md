@@ -211,6 +211,13 @@ Have fun!
 | 74LS347 | BCD to 7-segment decoders/drivers, open-collector | ![](png/74LS347.png) | [74LS347.circ](circ/74LS347.circ) | |
 | 74LS348 | 8 to 3-line priority encoder, three-state | ![](png/74LS348.png) | [74LS348.circ](circ/74LS348.circ) | |
 | 74LS350 | 4-bit shifter, three-state | ![](png/74LS350.png) | [74LS350.circ](circ/74LS350.circ) | |
+| 74LS351 | dual 8-line to 1-line data selectors/multiplexers, 4 common data inputs, three-state | ![](png/74LS351.png) | [74LS351.circ](circ/74LS351.circ) | |
+| 74LS352 | dual 4-line to 1-line data selectors/multiplexers, inverting outputs | ![](png/74LS352.png) | [74LS352.circ](circ/74LS352.circ) | |
+| 74LS353 | dual 4-line to 1-line data selectors/multiplexers, inverting outputs, three-state | ![](png/74LS353.png) | [74LS353.circ](circ/74LS353.circ) | |
+| 74LS354 | 8-line to 1-line data selector/multiplexer, transparent registers, three-state | ![](png/74LS354.png) | [74LS354.circ](circ/74LS354.circ) | |
+| 74LS355 | 8-line to 1-line data selector/multiplexer, transparent registers, open-collector | ![](png/74LS355.png) | [74LS355.circ](circ/74LS355.circ) | |
+| 74LS356 | 8-line to 1-line data selector/multiplexer, edge-triggered registers, three-state | ![](png/74LS356.png) | [74LS356.circ](circ/74LS356.circ) | |
+| 74LS357 | 8-line to 1-line data selector/multiplexer, edge-triggered registers, open-collector | ![](png/74LS357.png) | [74LS357.circ](circ/74LS357.circ) | |
 | 74LS362 | four-phase clock generator/driver for Texas Instruments TMS9900 | ![](png/74LS362.png) | [74LS362.circ](circ/74LS362.circ) | |
 | 74LS363 | octal transparent latch, three-state | ![](png/74LS363.png) | [74LS363.circ](circ/74LS363.circ) | |
 | 74LS364 | octal edge-triggered D-type register, three-state | ![](png/74LS364.png) | [74LS364.circ](circ/74LS364.circ) | |
