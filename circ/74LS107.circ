@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project source="2.7.1" version="1.0">
+  This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
+
+  <lib desc="#Wiring" name="0"/>
+  <lib desc="#Gates" name="1"/>
+  <lib desc="#Plexers" name="2"/>
+  <lib desc="#Arithmetic" name="3"/>
+  <lib desc="#Memory" name="4">
+    <tool name="ROM">
+      <a name="contents">addr/data: 8 8
+0
+</a>
+    </tool>
+  </lib>
+  <lib desc="#I/O" name="5"/>
+  <lib desc="#Base" name="6">
+    <tool name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif bold 24"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+  </lib>
+  <main name="74LS107"/>
+  <options>
+    <a name="gateUndefined" val="ignore"/>
+    <a name="simlimit" val="1000"/>
+    <a name="simrand" val="0"/>
+  </options>
+  <mappings>
+    <tool lib="6" map="Button2" name="Menu Tool"/>
+    <tool lib="6" map="Button3" name="Menu Tool"/>
+    <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
+  </mappings>
+  <toolbar>
+    <tool lib="6" name="Poke Tool"/>
+    <tool lib="6" name="Edit Tool"/>
+    <tool lib="6" name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif bold 24"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+    <sep/>
+    <tool lib="0" name="Pin">
+      <a name="tristate" val="false"/>
+    </tool>
+    <tool lib="0" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </tool>
+    <tool lib="1" name="NOT Gate">
+      <a name="size" val="20"/>
+    </tool>
+    <tool lib="1" name="AND Gate"/>
+    <tool lib="1" name="OR Gate"/>
+  </toolbar>
+  <circuit name="74LS107">
+    <a name="circuit" val="74LS107"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+    <appear>
+      <rect fill="#ffff00" height="100" stroke="#000000" stroke-width="2" width="70" x="50" y="50"/>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="64">1J</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="74">1/CLK</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="84">1K</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="94">1/CLR</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="96" y="94">1/Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="100" y="74">1Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="96" y="144">2/Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="124">2/CLK</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="114">2J</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="100" y="124">2Q</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="134">2K</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="144">2/CLR</text>
+      <text font-family="SansSerif" font-size="14" font-weight="bold" text-anchor="start" x="49" y="45">74LS107</text>
+      <circ-port height="8" pin="90,80" width="8" x="46" y="56"/>
+      <circ-port height="8" pin="90,110" width="8" x="46" y="66"/>
+      <circ-port height="8" pin="90,140" width="8" x="46" y="76"/>
+      <circ-port height="8" pin="90,170" width="8" x="46" y="86"/>
+      <circ-port height="8" pin="90,220" width="8" x="46" y="106"/>
+      <circ-port height="8" pin="90,250" width="8" x="46" y="116"/>
+      <circ-port height="8" pin="90,280" width="8" x="46" y="126"/>
+      <circ-port height="8" pin="90,310" width="8" x="46" y="136"/>
+      <circ-port height="10" pin="160,100" width="10" x="115" y="65"/>
+      <circ-port height="10" pin="160,120" width="10" x="115" y="85"/>
+      <circ-port height="10" pin="160,240" width="10" x="115" y="115"/>
+      <circ-port height="10" pin="160,260" width="10" x="115" y="135"/>
+      <circ-anchor facing="east" height="6" width="6" x="67" y="137"/>
+    </appear>
+    <wire from="(100,80)" to="(100,100)"/>
+    <wire from="(100,120)" to="(100,140)"/>
+    <wire from="(100,220)" to="(100,240)"/>
+    <wire from="(100,260)" to="(100,280)"/>
+    <wire from="(140,130)" to="(140,170)"/>
+    <wire from="(140,270)" to="(140,310)"/>
+    <wire from="(90,110)" to="(110,110)"/>
+    <wire from="(90,250)" to="(110,250)"/>
+    <wire from="(120,170)" to="(140,170)"/>
+    <wire from="(120,310)" to="(140,310)"/>
+    <wire from="(150,100)" to="(160,100)"/>
+    <wire from="(150,120)" to="(160,120)"/>
+    <wire from="(150,240)" to="(160,240)"/>
+    <wire from="(150,260)" to="(160,260)"/>
+    <wire from="(90,220)" to="(100,220)"/>
+    <wire from="(90,80)" to="(100,80)"/>
+    <wire from="(90,140)" to="(100,140)"/>
+    <wire from="(90,170)" to="(100,170)"/>
+    <wire from="(100,120)" to="(110,120)"/>
+    <wire from="(100,100)" to="(110,100)"/>
+    <wire from="(90,280)" to="(100,280)"/>
+    <wire from="(90,310)" to="(100,310)"/>
+    <wire from="(100,260)" to="(110,260)"/>
+    <wire from="(100,240)" to="(110,240)"/>
+    <comp lib="0" loc="(160,100)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="1Q"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="4" loc="(150,100)" name="J-K Flip-Flop">
+      <a name="trigger" val="falling"/>
+      <a name="label" val="Fall"/>
+    </comp>
+    <comp lib="0" loc="(90,280)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2K"/>
+    </comp>
+    <comp lib="4" loc="(150,240)" name="J-K Flip-Flop">
+      <a name="trigger" val="falling"/>
+      <a name="label" val="Fall"/>
+    </comp>
+    <comp lib="0" loc="(160,240)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2Q"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(90,250)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2/CLK"/>
+    </comp>
+    <comp lib="1" loc="(120,310)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(90,110)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1/CLK"/>
+    </comp>
+    <comp lib="0" loc="(90,170)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1/CLR"/>
+    </comp>
+    <comp lib="0" loc="(90,220)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2J"/>
+    </comp>
+    <comp lib="0" loc="(90,140)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1K"/>
+    </comp>
+    <comp lib="0" loc="(160,120)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="1/Q"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="6" loc="(100,50)" name="Text">
+      <a name="text" val="74LS107"/>
+      <a name="font" val="SansSerif bold 24"/>
+    </comp>
+    <comp lib="0" loc="(90,310)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2/CLR"/>
+    </comp>
+    <comp lib="0" loc="(90,80)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1J"/>
+    </comp>
+    <comp lib="1" loc="(120,170)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(160,260)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2/Q"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+  </circuit>
+</project>
