@@ -58,6 +58,21 @@ Have fun!
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
 | 74LS100 | dual 4-bit bistable latch | ![](png/74LS100.png) | [74LS100.circ](circ/74LS100.circ) | |
+| 74LS101 | AND-OR-gated J-K negative-edge-triggered flip-flop, preset | ![](png/74LS101.png) | [74LS101.circ](circ/74LS101.circ) | |
+| 74LS102 | AND-gated J-K negative-edge-triggered flip-flop, preset and clear | ![](png/74LS102.png) | [74LS102.circ](circ/74LS102.circ) | |
+| 74LS103 | dual J-K negative-edge-triggered flip-flop, clear | ![](png/74LS103.png) | [74LS103.circ](circ/74LS103.circ) | |
+| 74LS104 | J-K master-slave flip-flop | ![](png/74LS104.png) | [74LS104.circ](circ/74LS104.circ) | |
+| 74LS105 | J-K master-slave flip-flop, J2 and K2 inverted | ![](png/74LS105.png) | [74LS105.circ](circ/74LS105.circ) | |
+| 74LS106 | dual J-K negative-edge-triggered flip-flop, preset and clear | ![](png/74LS106.png) | [74LS106.circ](circ/74LS106.circ) | |
+| 74LS107 | dual J-K flip-flop, clear | ![](png/74LS107.png) | [74LS107.circ](circ/74LS107.circ) | |
+| 74LS108 | dual J-K negative-edge-triggered flip-flop, preset, common clear and common clock | ![](png/74LS108.png) | [74LS108.circ](circ/74LS108.circ) | |
+| 74LS109 | dual J-NotK positive-edge-triggered flip-flop, clear and preset | ![](png/74LS109.png) | [74LS109.circ](circ/74LS109.circ) | |
+| 74LS110 | AND-gated J-K master-slave flip-flop, data lockout | ![](png/74LS110.png) | [74LS110.circ](circ/74LS110.circ) | |
+| 74LS111 | dual J-K master-slave flip-flop, data lockout, reset, set | ![](png/74LS111.png) | [74LS111.circ](circ/74LS111.circ) | |
+| 74LS112 | dual J-K negative-edge-triggered flip-flop, clear and preset | ![](png/74LS112.png) | [74LS112.circ](circ/74LS112.circ) | |
+| 74LS113 | dual J-K negative-edge-triggered flip-flop, preset | ![](png/74LS113.png) | [74LS113.circ](circ/74LS113.circ) | |
+| 74LS114 | dual J-K negative-edge-triggered flip-flop, preset, common clock and clear | ![](png/74LS114.png) | [74LS114.circ](circ/74LS114.circ) | |
+| 74LS115 | dual J-K master-slave flip-flop, data lockout, reset | ![](png/74LS115.png) | [74LS115.circ](circ/74LS115.circ) | |
 | 74L116 | dual 4-bit latch, clear | ![](png/74L116.png) | [74L116.circ](circ/74L116.circ) | |
 | 74LS137 | 3-to-8 line decoder/demultiplexer, address latch, inverting outputs | ![](png/74LS137.png) | [74LS137.circ](circ/74LS137.circ) | |
 | 74LS138 | 3-to-8 line decoder/demultiplexer, inverting outputs| ![](png/74LS138.png) | [74LS138.circ](circ/74LS138.circ) | |
