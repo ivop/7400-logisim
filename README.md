@@ -248,5 +248,12 @@ Have fun!
 | 74LS373 | octal transparent latch, three-state | ![](png/74LS373.png) | [74LS373.circ](circ/74LS373.circ) | |
 | 74LS374 | octal register, three-state | ![](png/74LS374.png) | [74LS374.circ](circ/74LS374.circ) | |
 | 74LS375 | quad bistable latch | ![](png/74LS375.png) | [74LS375.circ](circ/74LS375.circ) | |
+| 74LS376 | quad J-NotK flip-flop, common clock and common clear | ![](png/74LS376.png) | [74LS376.circ](circ/74LS376.circ) | |
+| 74LS377 | 8-bit register, clock enable | ![](png/74LS377.png) | [74LS377.circ](circ/74LS377.circ) | |
+| 74LS378 | 6-bit register, clock enable | ![](png/74LS378.png) | [74LS378.circ](circ/74LS378.circ) | |
+| 74LS379 | 4-bit register, clock enable and complementary outputs | ![](png/74LS379.png) | [74LS379.circ](circ/74LS379.circ) | |
+| 74LS380 | 8-bit multifunction register, three-state | ![](png/74LS380.png) | [74LS380.circ](circ/74LS380.circ) | |
+| 74LS381 | 4-bit arithmetic logic unit/function generator, generate and propagate outputs | ![](png/74LS381.png) | [74LS381.circ](circ/74LS381.circ) | |
+| 74LS382 | 4-bit arithmetic logic unit/function generator, ripple carry and overflow outputs | ![](png/74LS382.png) | [74LS382.circ](circ/74LS382.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
