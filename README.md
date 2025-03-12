@@ -101,6 +101,9 @@ Have fun!
 | 74LS157 | quad 2-line to 1-line data selector/multiplexer, non-inverting outputs | ![](png/74LS157.png) | [74LS157.circ](circ/74LS157.circ) | |
 | 74LS158 | quad 2-line to 1-line data selector/multiplexer, inverting outputs | ![](png/74LS158.png) | [74LS158.circ](circ/74LS158.circ) | |
 | 74LS159 | 4-to-16 line decoder/demultiplexer, open-collector | ![](png/74LS159.png) | [74LS159.circ](circ/74LS159.circ) | |
+| 74LS160 | synchronous presettable 4-bit decade counter, asynchronous clear | ![](png/74LS160.png) | [74LS160.circ](circ/74LS160.circ) | |
+| 74LS161 | synchronous presettable 4-bit binary counter, asynchronous clear | ![](png/74LS161.png) | [74LS161.circ](circ/74LS161.circ) | |
+| 74LS162 | synchronous presettable 4-bit decade counter, synchronous clear| ![](png/74LS162.png) | [74LS162.circ](circ/74LS162.circ) | |
 | 74LS163 | synchronous presettable 4-bit binary counter, synchronous clear | ![](png/74LS163.png) | [74LS163.circ](circ/74LS163.circ) | |
 | 74LS164 | 8-bit serial-in parallel-out (SIPO) shift register, asynchronous clear | ![](png/74LS164.png) | [74LS164.circ](circ/74LS164.circ) | |
 | 74LS165 | 8-bit parallel-in serial-out (PISO) shift register, parallel load, complementary outputs | ![](png/74LS165.png) | [74LS165.circ](circ/74LS165.circ) | |
@@ -255,5 +258,7 @@ Have fun!
 | 74LS380 | 8-bit multifunction register, three-state | ![](png/74LS380.png) | [74LS380.circ](circ/74LS380.circ) | |
 | 74LS381 | 4-bit arithmetic logic unit/function generator, generate and propagate outputs | ![](png/74LS381.png) | [74LS381.circ](circ/74LS381.circ) | |
 | 74LS382 | 4-bit arithmetic logic unit/function generator, ripple carry and overflow outputs | ![](png/74LS382.png) | [74LS382.circ](circ/74LS382.circ) | |
+| 74LS383 | 8-bit register, open-collector | ![](png/74LS383.png) | [74LS383.circ](circ/74LS383.circ) | |
+| 74LS385 | quad serial adder/subtractor | ![](png/74LS385.png) | [74LS385.circ](circ/74LS385.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
