@@ -12,6 +12,7 @@ Have fun!
 * [100-199](#100-199)
 * [200-299](#200-299)
 * [300-399](#300-399)
+* [400-499](#400-499)
 
 ## 1-99
 
@@ -262,3 +263,13 @@ Have fun!
 | 74LS385 | quad serial adder/subtractor | ![](png/74LS385.png) | [74LS385.circ](circ/74LS385.circ) | |
 | 74LS390 | dual 4-bit decade counter, asynchronous clear | ![](png/74LS390.png) | [74LS390.circ](circ/74LS390.circ) | |
 | 74LS393 | dual 4-bit binary counter, asynchronous clear | ![](png/74LS393.png) | [74LS393.circ](circ/74LS393.circ) | |
+| 74LS395 | 4-bit cascadable shift register, three-state | ![](png/74LS395.png) | [74LS395.circ](circ/74LS395.circ) | |
+| 74LS396 | octal storage register, parallel access | ![](png/74LS396.png) | [74LS396.circ](circ/74LS396.circ) | |
+| 74LS398 | quad 2-input multiplexers, storage, and complementary outputs | ![](png/74LS398.png) | [74LS398.circ](circ/74LS398.circ) | |
+| 74LS399 | quad 2-input multiplexers, storage | ![](png/74LS399.png) | [74LS399.circ](circ/74LS399.circ) | |
+
+
+## 400-499
+[back to top](#7400-logisim)
+
+| 74LS405 | 3-to-8 line decoder, inverted outputs | ![](png/74LS405.png) | [74LS405.circ](circ/74LS405.circ) | |
