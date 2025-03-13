@@ -272,4 +272,6 @@ Have fun!
 ## 400-499
 [back to top](#7400-logisim)
 
+| Part | Description | Symbol | Circuit | Notes |
+| --- | --- | --- | --- | --- |
 | 74LS405 | 3-to-8 line decoder, inverted outputs | ![](png/74LS405.png) | [74LS405.circ](circ/74LS405.circ) | |
