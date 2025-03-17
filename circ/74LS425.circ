@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project source="2.7.1" version="1.0">
+  This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
+
+  <lib desc="#Wiring" name="0"/>
+  <lib desc="#Gates" name="1"/>
+  <lib desc="#Plexers" name="2"/>
+  <lib desc="#Arithmetic" name="3"/>
+  <lib desc="#Memory" name="4"/>
+  <lib desc="#I/O" name="5"/>
+  <lib desc="#Base" name="6">
+    <tool name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+  </lib>
+  <main name="74LS425"/>
+  <options>
+    <a name="gateUndefined" val="ignore"/>
+    <a name="simlimit" val="1000"/>
+    <a name="simrand" val="0"/>
+  </options>
+  <mappings>
+    <tool lib="6" map="Button2" name="Menu Tool"/>
+    <tool lib="6" map="Button3" name="Menu Tool"/>
+    <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
+  </mappings>
+  <toolbar>
+    <tool lib="6" name="Poke Tool"/>
+    <tool lib="6" name="Edit Tool"/>
+    <tool lib="6" name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+    <sep/>
+    <tool lib="0" name="Pin">
+      <a name="tristate" val="false"/>
+    </tool>
+    <tool lib="0" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </tool>
+    <tool lib="1" name="NOT Gate">
+      <a name="size" val="20"/>
+    </tool>
+    <tool lib="1" name="AND Gate"/>
+    <tool lib="1" name="OR Gate"/>
+  </toolbar>
+  <circuit name="74LS425">
+    <a name="circuit" val="74LS425"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+    <appear>
+      <rect fill="#ffff00" height="90" stroke="#000000" stroke-width="2" width="60" x="50" y="50"/>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="64">1A</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="84">2A</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="104">3A</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="124">4A</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="91" y="64">1Y</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="91" y="84">2Y</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="91" y="104">3Y</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="91" y="124">4Y</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="74">1/G</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="94">2/G</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="114">3/G</text>
+      <text font-family="SansSerif" font-size="10" font-weight="bold" text-anchor="start" x="54" y="134">4/G</text>
+      <text font-family="SansSerif" font-size="12" font-weight="bold" text-anchor="start" x="51" y="47">74LS425</text>
+      <circ-port height="8" pin="110,70" width="8" x="46" y="56"/>
+      <circ-port height="8" pin="110,90" width="8" x="46" y="66"/>
+      <circ-port height="8" pin="110,110" width="8" x="46" y="76"/>
+      <circ-port height="8" pin="110,130" width="8" x="46" y="86"/>
+      <circ-port height="8" pin="110,150" width="8" x="46" y="96"/>
+      <circ-port height="8" pin="110,170" width="8" x="46" y="106"/>
+      <circ-port height="8" pin="110,190" width="8" x="46" y="116"/>
+      <circ-port height="8" pin="110,210" width="8" x="46" y="126"/>
+      <circ-port height="10" pin="170,70" width="10" x="105" y="55"/>
+      <circ-port height="10" pin="170,110" width="10" x="105" y="75"/>
+      <circ-port height="10" pin="170,150" width="10" x="105" y="95"/>
+      <circ-port height="10" pin="170,190" width="10" x="105" y="115"/>
+      <circ-anchor facing="east" height="6" width="6" x="77" y="87"/>
+    </appear>
+    <wire from="(110,70)" to="(140,70)"/>
+    <wire from="(110,110)" to="(140,110)"/>
+    <wire from="(110,150)" to="(140,150)"/>
+    <wire from="(110,190)" to="(140,190)"/>
+    <wire from="(150,80)" to="(150,90)"/>
+    <wire from="(150,120)" to="(150,130)"/>
+    <wire from="(150,160)" to="(150,170)"/>
+    <wire from="(150,200)" to="(150,210)"/>
+    <wire from="(140,90)" to="(150,90)"/>
+    <wire from="(140,130)" to="(150,130)"/>
+    <wire from="(160,70)" to="(170,70)"/>
+    <wire from="(160,110)" to="(170,110)"/>
+    <wire from="(140,170)" to="(150,170)"/>
+    <wire from="(140,210)" to="(150,210)"/>
+    <wire from="(160,150)" to="(170,150)"/>
+    <wire from="(160,190)" to="(170,190)"/>
+    <wire from="(110,90)" to="(120,90)"/>
+    <wire from="(110,130)" to="(120,130)"/>
+    <wire from="(110,170)" to="(120,170)"/>
+    <wire from="(110,210)" to="(120,210)"/>
+    <comp lib="1" loc="(140,90)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(170,110)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="2Y"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(140,130)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(110,130)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2/G"/>
+    </comp>
+    <comp lib="1" loc="(160,150)" name="Controlled Buffer"/>
+    <comp lib="0" loc="(110,70)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1A"/>
+    </comp>
+    <comp lib="0" loc="(110,190)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="4A"/>
+    </comp>
+    <comp lib="1" loc="(160,190)" name="Controlled Buffer"/>
+    <comp lib="0" loc="(170,190)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="4Y"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(110,170)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="3/G"/>
+    </comp>
+    <comp lib="1" loc="(140,210)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(110,110)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="2A"/>
+    </comp>
+    <comp lib="1" loc="(140,170)" name="NOT Gate">
+      <a name="size" val="20"/>
+    </comp>
+    <comp lib="0" loc="(110,90)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="1/G"/>
+    </comp>
+    <comp lib="0" loc="(170,150)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="3Y"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(170,70)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="1Y"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(110,210)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="4/G"/>
+    </comp>
+    <comp lib="1" loc="(160,110)" name="Controlled Buffer"/>
+    <comp lib="1" loc="(160,70)" name="Controlled Buffer"/>
+    <comp lib="0" loc="(110,150)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="3A"/>
+    </comp>
+    <comp lib="6" loc="(131,47)" name="Text">
+      <a name="text" val="74LS425"/>
+      <a name="font" val="SansSerif bold 24"/>
+    </comp>
+  </circuit>
+</project>

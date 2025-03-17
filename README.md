@@ -275,3 +275,20 @@ Have fun!
 | Part | Description | Symbol | Circuit | Notes |
 | --- | --- | --- | --- | --- |
 | 74LS405 | 3-to-8 line decoder, inverted outputs | ![](png/74LS405.png) | [74LS405.circ](circ/74LS405.circ) | |
+| 74LS408 | 8-bit parity tree | ![](png/74LS408.png) | [74LS408.circ](circ/74LS408.circ) | |
+| 74LS412 | multi-mode buffered 8-bit latch, three-state | ![](png/74LS412.png) | [74LS412.circ](circ/74LS412.circ) | |
+| 74LS416 | modulo 10 counter, preload and clear inputs | ![](png/74LS416.png) | [74LS416.circ](circ/74LS416.circ) | |
+| 74LS417 | modulo 2 and modulo 5 counters, common preload and clear inputs | ![](png/74LS417.png) | [74LS417.circ](circ/74LS417.circ) | |
+| 74LS418 | modulo 16 counter, preload and clear inputs | ![](png/74LS418.png) | [74LS418.circ](circ/74LS418.circ) | |
+| 74LS419 | dual modulo 4 counters, common preload and clear inputs | ![](png/74LS419.png) | [74LS419.circ](circ/74LS419.circ) | |
+| 74LS425 | quad bus buffers, active low enables, three-state | ![](png/74LS425.png) | [74LS425.circ](circ/74LS425.circ) | |
+| 74LS426 | quad bus buffers, active high enables, three-state | ![](png/74LS426.png) | [74LS426.circ](circ/74LS426.circ) | |
+| 74LS432 | 8-bit multi-mode buffered latch, three-state | ![](png/74LS432.png) | [74LS432.circ](circ/74LS432.circ) | |
+| 74LS436 | line driver/memory driver circuits - MOS memory interface, damping output resistor | ![](png/74LS436.png) | [74LS436.circ](circ/74LS436.circ) | |
+| 74LS437 | line driver/memory driver circuits - MOS memory interface | ![](png/74LS437.png) | [74LS437.circ](circ/74LS437.circ) | |
+| 74LS440 | quad tridirectional bus transceiver, non-inverting outputs, open-collector | ![](png/74LS440.png) | [74LS440.circ](circ/74LS440.circ) | |
+| 74LS441 | quad tridirectional bus transceiver, inverting outputs, open-collector | ![](png/74LS441.png) | [74LS441.circ](circ/74LS441.circ) | |
+| 74LS442 | quad tridirectional bus transceiver, non-inverting outputs, three-state | ![](png/74LS442.png) | [74LS442.circ](circ/74LS442.circ) | |
+| 74LS443 | quad tridirectional bus transceiver, inverting outputs, three-state | ![](png/74LS443.png) | [74LS443.circ](circ/74LS443.circ) | |
+| 74LS444 | quad tridirectional bus transceiver, inverting and non-inverting outputs, three-state | ![](png/74LS444.png) | [74LS444.circ](circ/74LS444.circ) | |
+| 74LS448 | quad tridirectional bus transceiver, inverting and non-inverting outputs, open-collector | ![](png/74LS448.png) | [74LS448.circ](circ/74LS448.circ) | |
