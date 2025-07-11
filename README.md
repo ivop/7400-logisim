@@ -291,13 +291,13 @@ Have fun!
 | 74LS442 | quad tridirectional bus transceiver, non-inverting outputs, three-state | ![](png/74LS442.png) | [74LS442.circ](circ/74LS442.circ) | |
 | 74LS443 | quad tridirectional bus transceiver, inverting outputs, three-state | ![](png/74LS443.png) | [74LS443.circ](circ/74LS443.circ) | |
 | 74LS444 | quad tridirectional bus transceiver, inverting and non-inverting outputs, three-state | ![](png/74LS444.png) | [74LS444.circ](circ/74LS444.circ) | |
-| 74LS445 | | ![](png/74LS445.png) | [74LS445.circ](circ/74LS445.circ) | |
-| 74LS446 | | ![](png/74LS446.png) | [74LS446.circ](circ/74LS446.circ) | |
-| 74LS447 | | ![](png/74LS447.png) | [74LS447.circ](circ/74LS447.circ) | |
+| 74LS445 | BCD to decimal decoders/drivers | ![](png/74LS445.png) | [74LS445.circ](circ/74LS445.circ) | |
+| 74LS446 | quad bus transceivers, direction controls, inverting outputs, three-state | ![](png/74LS446.png) | [74LS446.circ](circ/74LS446.circ) | |
+| 74LS447 | BCD to 7-segment decoders/drivers, open-collector | ![](png/74LS447.png) | [74LS447.circ](circ/74LS447.circ) | |
 | 74LS448 | quad tridirectional bus transceiver, inverting and non-inverting outputs, open-collector | ![](png/74LS448.png) | [74LS448.circ](circ/74LS448.circ) | |
-| 74LS449 | | ![](png/74LS449.png) | [74LS449.circ](circ/74LS449.circ) | |
-| 74LS450 | | ![](png/74LS450.png) | [74LS450.circ](circ/74LS450.circ) | |
-| 74LS451 | | ![](png/74LS451.png) | [74LS451.circ](circ/74LS451.circ) | |
-| 74LS453 | | ![](png/74LS453.png) | [74LS453.circ](circ/74LS453.circ) | |
-| 74F455 | | ![](png/74F455.png) | [74F455.circ](circ/74F455.circ) | |
-| 74F456 | | ![](png/74F456.png) | [74F456.circ](circ/74F456.circ) | |
+| 74LS449 | quad bus transceivers, direction controls, non-inverting outputs, three-state | ![](png/74LS449.png) | [74LS449.circ](circ/74LS449.circ) | |
+| 74LS450 | counter, latch, 7-segment decoder, open-collector| ![](png/74LS450.png) | [74LS450.circ](circ/74LS450.circ) | |
+| 74LS451 | dual 8-to-1 multiplexer | ![](png/74LS451.png) | [74LS451.circ](circ/74LS451.circ) | |
+| 74LS453 | quad 4-to-1 multiplexer | ![](png/74LS453.png) | [74LS453.circ](circ/74LS453.circ) | |
+| 74F455 | octal buffer / line driver with parity, inverting, three-state | ![](png/74F455.png) | [74F455.circ](circ/74F455.circ) | |
+| 74F456 | octal buffer / line driver with parity, non-inverting, three-state | ![](png/74F456.png) | [74F456.circ](circ/74F456.circ) | |
