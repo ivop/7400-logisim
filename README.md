@@ -296,7 +296,7 @@ Have fun!
 | 74LS447 | BCD to 7-segment decoders/drivers, open-collector | ![](png/74LS447.png) | [74LS447.circ](circ/74LS447.circ) | |
 | 74LS448 | quad tridirectional bus transceiver, inverting and non-inverting outputs, open-collector | ![](png/74LS448.png) | [74LS448.circ](circ/74LS448.circ) | |
 | 74LS449 | quad bus transceivers, direction controls, non-inverting outputs, three-state | ![](png/74LS449.png) | [74LS449.circ](circ/74LS449.circ) | |
-| 74LS450 | counter, latch, 7-segment decoder, open-collector| ![](png/74LS450.png) | [74LS450.circ](circ/74LS450.circ) | |
+| 74LS450 | 16-to-1 multiplexer, complementary outputs | ![](png/74LS450.png) | [74LS450.circ](circ/74LS450.circ) | |
 | 74LS451 | dual 8-to-1 multiplexer | ![](png/74LS451.png) | [74LS451.circ](circ/74LS451.circ) | |
 | 74LS453 | quad 4-to-1 multiplexer | ![](png/74LS453.png) | [74LS453.circ](circ/74LS453.circ) | |
 | 74F455 | octal buffer / line driver with parity, inverting, three-state | ![](png/74F455.png) | [74F455.circ](circ/74F455.circ) | |
